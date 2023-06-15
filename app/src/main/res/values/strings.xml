@@ -1,0 +1,840 @@
+<resources>
+    <string name="app_name">Aplikasi SiMun</string>
+    <string name="mdpl">Ketinggian</string>
+    <string name="location">Lokasi</string>
+    <string name="track">Jalur</string>
+    <string name="title_education">Judul Edukasi</string>
+    <string name="title_equipment">Nama Barang</string>
+    <string name="mountain_name">Nama Gunung</string>
+    <string name="equipment">Nama Perlengkapan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Gunung Kerinci</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Agung</item>
+        <item>Gunung Andong</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Argopura</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Prau</item>
+        <item>Gunung Ungaran</item>
+    </string-array>
+
+    <string-array name="location_name">
+        <item>Jambi</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+    </string-array>
+
+    <string-array name="mdpl_name">
+        <item>3805 MDPL </item>
+        <item>3762 MDPL</item>
+        <item>3676 MDPL</item>
+        <item>3145 MDPL</item>
+        <item>3265 MDPL</item>
+        <item>3332 MDPL</item>
+        <item>3142 MDPL</item>
+        <item>1726 MDPL</item>
+        <item>2958 MDPL</item>
+        <item>3088 MDPL</item>
+        <item>3371 MDPL</item>
+        <item>3153 MDPL</item>
+        <item>3432 MDPL</item>
+        <item>2590 MDPL</item>
+        <item>2050 MDPL</item>
+    </string-array>
+    <string-array name="tips_mountain">
+        <item>1. Waspadalah dan tetap tenang jika ada tanda kemunculan harimau Sumatera.\n\n2. Angin kencang biasanya terjadi di shelter 2 dan shelter 3.\n\n3. Berhati-hatilah ketika memasak di luar tenda agar tidak terjadi kebakaran. \n\n4. Cuaca di Gunung Kerinci tidak bisa diprediksi (Kabut dan Badai)\n\n5. Jika gas belerang mengarah ke puncak, gunakan masker (bisa dibasahi dengan air) atau segera turun.\n\n6. Jika cuaca mulai berkabut di puncak, turunlah sebelum jam 12 siang dan ikuti petunjuk arah di sepanjang jalur pendakian.\n\n7. Saat turun Gunung Kerinci di malam hari, usahakan beramai-ramai terutama ketika melintasi pos 3 hingga pintu hutan.\n\n8. Kerjasama antar teman satu tim sangat perlu dan jangan pernah meninggalkan teman dalam pendakian.</item>
+        <item>1. Memiliki fisik yang kuat\n\n2. Unduh aplikasi e-rinjani di ponsel.\n\n3. Berhati-hatilah ketika memasak di luar tenda agar tidak terjadi kebakaran.\n\n4. Temukan Informasi resmi dari TNGR.\n\n5. Waspada tanda-tanda cuaca ekstrim.\n\n6. Disarankan menyewa porter karena pendakian yang memakan waktu yang lama.\n\n7. Cari tahu tempat mata air berada.\n\n8. Jangan terlalu lama beristirahat karena akan membuat Anda malas dan akan terasa semakin jauh.</item>
+        9. Jaga kadar gula dalam tubuh dengan mengkonsumsi makanan yang mengandung gula setiap 2
+        jam.\n\n 10. Manajemen logistik dan pilihan durasi pendakian perlu diperhitungkan secara
+        tepat.\n\n
+        <item>1. Membawa surat keterangan sehat dan fotokopi KTP/SIM/Paspor yang masih berlaku.\n\n2. Bagi pendaki di bawah umur harus membawa surat izin bermaterai serta fotokopi KTP orang tua atau wali.\n\n3. Booking atau daftar secara online kemudian cetak bukti reschedule.\n\n4. Bawa pakaian hangat yang cukup karena cuaca di Gunung Semeru sangat ekstrim.\n\n5. Gunakan perlengkapan mendaki gunung yang lengkap.\n\n6. Hati-hati ketika mendaki melalui jalur Watu Rejeng karena kamu bisa saja bertemu hewan buas.\n\n7. Pendaki disarankan untuk hanya sampai di Kalimati. Jika masih nekat, maka resiko ditanggung sendiri.\n\n8. Usahakan sudah turun gunung sebelum pukul 09.00 WIB untuk menghindari gas belerang.\n\n9. Jangan mendekati Kawah Jonggring Saloka karena ada semburan gas belerang dan sejenisnya setiap 20 menit sekali.\n\n10. Hindari area blank 75 (jurang sedalam 75 m) ketika turun gunung.\n\n11. Jaga sikap, tutur kata dan perilaku saat di gunung. Jangan merusak gunung dan tidak boleh melakukan vandalisme.\n\n12. Setelah sampai puncak, kalian harus turun sebelum jam 10.00 pagi. Karena untuk menghindari hembusan angin yang membawa gas beracun dari kawah.\n\n13. Saat menuju puncak pada area berpasir jangan sekali-kali menginjak/berdiri/duduk/bersandar di batu.\n\n14. Gunakan sepatu gunung lengkap dengan gaiters supaya nyaman ketika summits attack.\n\n15. Gunakan trackpole jika perlu.\n\n16. Dilarang menggunakan headset dan earphone saat summit attack ke puncak mahameru.\n\n17. Selalu siapkan perbekalan yang cukup selama pendakian\n\n18. Jangan pernah meninggalkan rombongan atau meninggalkan teman seperjalanan.</item>
+        <item>1. Bawalah sunblock atau sunscreen karena summit di gunung ini full sabana yang panas minim pohon untuk berteduh.\n\n2. Gunung yang minim sumber air jadi usahakan bawalah air dari basecamp.\n\n3. Hati-hati dengan barang bawaan karena terdapat kera yang suka meminta makanan.\n\n4. jangan memberi kera dengan makanan manusia sebab mereka kurang terbiasa dengan makanan kita.\n\n5. Ketahui titik bahaya mendirikan tenda.\n\n6. Jika memilih jalur Suwanting waspadalah dengan angin dinginnya di area basecamp.\n\n7. Jika memilih via Selo maka sampah sangat diperhatikan karena aturan yang sangat ketat urusan sampah.\n\n8. Apabila kurang atau lebih dari data sampah yang ditulis maka akan dikenakan denda.\n\n9. Belajarlah disiplin dengan sampahmu sendiri. Dan di jalur ini kalian dilarang menerbangkan drone dan minim sekali sumber air.</item>
+        <item>1. Harus mempersiapkan diri baik fisik, mental, maupun perlengkapan harus sangat memadai.\n\n2. Gunung yang kurang disarankan untuk pendaki pemula.\n\n3. Gunung ini merupakan gunung peringkat pertama dengan kasus kematian terbanyak yang sering memakan korban dengan penyebab kematian Hipotermia.\n\n4. Suhu di gunung lawu sangat dingin,saat di basecamp suhunya mencapai sekitar 9-10 derajat celcius saat malam hari. Kalau di atas atau puncak bisa sampai 3-4 derajat celcius.\n\n5. Bawa SB(Sleeping Bag) yang polar berbulu jangan yang tipis, sebab menggunakan sb yang polar saja tetap tembus dinginnya.\n\n6. Ketika sampai di pasar dieng disarankan jangan sendirian\n\n7. Pada pasa Dieng memiliki jalur yang banyak bercabang dan kurangnya petunjuk jalan, Jadi sering membuat para pendaki tersesat.</item>
+        <item>1. Lengkapi persyaratan dokumen seperti: Fotocopy, surat sehat, dan materai 6000.\n\n2. Peralatan Panjat Tebing meliputi: Persiapan Alat, Tali Kern 30m, Carabiner, Webbing, Harness, Ascender, Helm, Jumar, dan Tali prusik.\n\n3. Skill Teknis: Anchoring, Ascending, Belaying, Descending Rappelling, dan Moving together.\n\n4. Siapkan mental yang cukup matang untuk mendaki Gunung Raung.\n\n5. Persiapan fisikmu, lebih dari biasanya.\n\n6. Pentingnya mengurus perizinan baik dari surat izin orang tua dan registrasi ulang di sekretariat.\n\n7. Persiapkan alat pendakian yang lengkap\n\n8. Disarankan membawa air /orangnya 6-7 L dari basecamp karena gunung ini sulit menemukan sumber airnya.\n\n9. Digunung ini diwajibkan untuk menggunakan jasa pemandu profesional atau menyewa porter.\n\n10. Wajib melampirkan surat keterangan sehat.\n\n11. Pilihlah hari dan waktu yang tepat, yaitu saat musim kemarau\n\n12. Jika kamu mendaki di musim hujan trek akan menjadi sangat berat dengan tanah yang cukup licin.\n\n13. Gunakan peralatan safety seperti sepatu gunung, celana cargo, jaket dry fit dan juga helm.\n\n14. Selalu cek peralatanmu dan pastikan sudah terpasang dengan benar ketika proses climbing.\n\n15. Persiapkan tim yang solid dan mendakilah di pagi atau siang hari.</item>
+        <item>1. Minimnya tempat camp, mulailah pendakian malam atau dini hari karena pendakian yang tepat adalah tektok.\n\n2. Hindari membawa makanan yang terbuat dari daging sapi sebagai bentuk penghormatan kepada masyarakat di sekitar Gunung Agung karena sapi atau lembu bagi umat hindu sangat disakralkan.\n\n3. Cukupkan perbekalan air karena pendakian yang berat dan memakan waktu sekitar 7 jam untuk naik.\n\n4. Gunung Agung terdapat sedikit mata air dan beberapa sumber air tidak boleh diambil karena disakralkan jadi seakan-akan tidak ada sumber air di sepanjang perjalanan. Inilah fungsi guide yaitu untuk sembahyang sekaligus mengambilkan air.\n\n5. Untuk tarif guide di sekitar Pura Besakih sekitar Rp.700.000 (negoisasi) per 4 orang, tergantung dimana akan menyewa jasa guide.\n\n6. Hindari pendakian saat upacara keagamaan. Jika ada proses upacara keagamaan di Pura Besakih dan Pura Pasar Agung, batalkan niat untuk mendaki.\n\n7. Perhatikan cuaca. Jika cuaca sedang hujan, trek yang berbatu akan licin terutama saat summit ke puncak.\n\n8. Lebih baik menggunakan guide lokal yang mengerti seluk beluk pulau Bali, untuk menghindari hal-hal yang tidak diinginkan.\n\n9. Dilarang merusak/mengambil flora dan fauna di Gunung Agung dan jangan berkata kasar/kotor.\n\n10. Wanita yang sedang datang bulan dilarang mendaki.</item>
+        <item>1. Pilihlah Waktu yang Tepat. Kalau bisa jangan mendaki pada akhir pekan, karena akan ramai, bahkan bisa seperti pasar.\n\n2. Pastikan Berolahraga Sebelum Mendaki.\n\n3. Gunakan Sepatu atau Sandal yang Nyaman.\n\n4. Bawa Barang Secukupnya.\n\n5. Jangan Buang Sampah Sembarangan.\n\n6. Apabila ingin tektok usahakan berangkat jam 3 subuh.\n\n7. Siapin banyak uang saja disini banyak warung.</item>
+        <item>1. Persiapkan fisik.\n\n2. Usahakan mendaki saat Siang.\n\n3. Cek kondisi cuac.\n\n4. Bawa Barang Secukupnya.\n\n5. Jangan Buang Sampah Sembarangan.\n\n6. Yang paling penting bawalah sampahmu turun karena gunung ini kurang banget akan peraturan sampah hingga banyak sekali sampah digunung ini.</item>
+        <item>1. Persiapkan fisik, logistik, dan lainnya lebih dari biasanya karena waktu pendakian sekitar 4-5 hari jadi perlu persiapan yang sangat matang.\n\n2. Disarankan menyewa guide atau teman yang berpengalaman karena minim tanda atau rambu-rambu.\n\n3. Dari kedua jalur tersebut, jalur Baderan merupakan yang paling favorit, selain itu juga lebih cepat karena terdapat jalur trabasan.\n\n4. Biasanya pendaki naik dan turun di jalur berbeda, misal naik via Bremi turun akan melalui Baderan, begitupun sebaliknya.\n\n5. Pastikan logistik pendakian mencukupi.\n\n6. Tak jarang masih sering ditemui jejak babi hutan dan macan di dekat jalur pendakian, jadi kamu tetap harus hati-hati.\n\n7. Gunung Argopuro tidak memiliki basecamp resmi, basecamp ini digantikan oleh Polsek setempat, jadi sebelum mendaki kita harus melapor di Polsek setempat terlebih dahulu.</item>
+        <item>1. Rombongan terbaik adalah 4-8 orang.\n\n2. Sebelum mulai mendaki, pastikan kamu olahraga ringan seminggu sebelum mendaki agar tubuh tidak kaget.\n\n3. Gunakan Sepatu atau Sandal yang Nyaman.\n\n4. Bawa peralatan khusus mendaki seperti sepatu/sandal gunung, tenda, sleeping bag, kompor, dan tentunya logistik yang mencukupi.\n\n5. Selalu utamakan kebersamaan tim.\n\n6. Prioritas utama adalah keselamatan bersama, bukan puncak ataupun pemandangan.\n\n7. Pilihlah waktu pendakian di musim kemarau untuk menghindari terjadinya hujan atau badai.</item>
+        <item>1. Persiapkan fisik dan perlengkapan yang cukup.\n\n2. Bawa masker karna di puncak akan mencium bau belerang.\n\n3. Berhati hati saat menuju puncak karena trek yang berbatu dan terjal.</item>
+        <item>1. Minimnya trek atau jalur bonus di gunung ini.\n\n2. Berhati hati saat turun dari puncak menuju batas vegetasi karena rawan sekali tersesat.\n\n3. Ikuti setiap aturan dan larangan gunung ini karena Slamet terkenal dengan kemistisannya.\n\n4. Pertama tentu terkait dengan persiapan fisik dan mental dalam mendaki gunung Slamet ini. Jalurnya yang cukup panjang menuntut kekuatan fisik yang baik, serta kesiapan mental agar bisa konsisten terus berjalan.</item>
+        <item>1. Siapkan jaket yang tebal, tenda double layer, dan sb karna udara Dieng yang dingin.\n\n2. Apaibila ingin tek-tok usahain berangkat jam 2 atau jam 3 agar dapat Golden Sunset.\n\n3. Untuk masalah mendirikan tenda jangan dikhawatirkan di area camp banyak sekali dataran datar rerumputan, bahkan ratusan tenda pun bakalan tetap muat kalau di gunung prau.</item>
+        <item>1. Lengkapi logistik di basecamp mawar yang sudah menyediakan beberapa warung.\n\n2. Gunakan Peralatan dan Perlengkapan Mendaki Gunung yang lengkap untuk kenyamanan dan keamanan.\n\n3. Sumber air ada di antara pos 1 - pos 2 dan penampungan air pos 3. Lebih baik membawa air kemasan yang lebih terjamin. Setelah Pos 3, tidak ada sumber air, persiapkan logistik air yang cukup.\n\n4. Waspadai ketika musim hujan, jalur pendakian ke puncak sangat licin.\n\n5. Jika cuaca tidak cukup baik, sering terjadi angin kencang di area terbuka setelah hutan hingga di puncak. Teta pertimbangkan perubahan cuaca untuk menentukan lokasi camp maupun summit.\n\n6. Tidak disarankan untuk camp di puncak utama Gunung Ungaran, Untuk mendirikan tenda bisa di belakang puncak untuk mengantisipasi angin kencang.\n\n7. Jagalah kebersihan dan buang sampah di tempat yang sudah disediakan,  tepatnya di dekat area kebun teh.</item>
+    </string-array>
+    <string-array name="track_mountain">
+        <!-- Gunung Kerinci  -->
+        <item> \nVia Kersik Tuo\nEstimasi Perjalanan Perjalanan +- 8-12 Jam\n
+            1. R10 - Pos 1 Waktu tempuh +- 45 menit\n
+            2. Pos 1 - Pos 2 Waktu tempuh +- 35 menit\n
+            3. Pos 2 - Pos 3 +- 50 menit\n
+            4. Pos 3 Shelter 1 +- 1 jam 30 menit\n
+            5. Shelter 1 - Shelter 2 +- 3 Jam\n
+            6. Shelter 2 - Shelter 3 +- 3 Jam\n
+            7. Shelter 3 - Tugu Yudha +- 1 Jam 40 menit\n
+            8. Tugu Yuda - Puncak Kerinci +- 40 menit\n\nVia Sosok Selatan\nJalur ini masih proses perbaikan dan masih ditutup sehingga masih minim informasi mengenai jalur sosok selatan jadi jika kalian ingin mendaki gunung kerinci lebih disarankan melalui via kersik tuo.</item>
+        <!-- Gunung Rinjani -->
+        <item> \nVia Sembalun\nEstimasi Perjalanan Perjalanan +- 8-12 Jam\n
+            1. Bandara Internasional Zainuddin Abdul Madjid Lombok Desa Sembalun(± 3 jam)\n
+            2. Desa Sembalun - Pos 1 (± 1 jam 45 menit)\n
+            3. Pos 1 - Pos 2(± 35 menit)\n
+            4. Pos 2 - Pos 3	(± 2,5 jam)\n
+            5. Pos 3 - Pos Ekstra	(± 1 jam 30 menit)\n
+            6. Pos Ekstra - Plawangan Sembalun	(± 2 jam 15 menit)\n
+            7. Plawangan Sembalun - Camp Area (± 25 menit)\n
+            8. Camp Area - Puncak Gunung Rinjani, Dewi Anjani(± 7 jam)\n\nVia Senaru\nEstimasi Perjalanan +- 8-12 Jam\n
+            1. Basecamp Sembalun - Pos 1 (± 30 menit)\n
+            2. Desa Sembalun - Pos 1 (± 1 jam 45 menit)\n
+            3. Pos 1 - Pos 2 (± 1 jam 30 menit)\n
+            4. Pos 2 - Pos 3 (± 1 jam 30 menit)\n
+            5. Pos 3 - Plawangan Sembalun(± 5 jam)\n
+            6. Plawangan Sembalun - Pos Ekstra(± 1 jam 30 menit)\n
+            7. Plawangan Sembalun - Puncak Gunung Rinjani, Dewi Anjani(± 6 jam)\n
+            8. Puncak Gunung Rinjani, Dewi Anjani - Plawangan Sembalun (± 2 jam 45 menit)\n
+            9. Plawangan Sembalun - Danau Segara Anak	 (± 5 – 6 jam)\n\nVia Aik Berik\nEstimasi Perjalanan +-8-12 Jam\n
+            1. Pintu Masuk - Pos 1 (± 1,5 – 2 jam)\n
+            2. Pos 1 - Pos 2	(± 1 – 1,5 jam)\n
+            3. Pos 2 - Pos 3 (± 2,5 – 3,5 jam)\n
+            4. Pos 3 - Pos 4± (3,5 – 4 jam)\n
+            5. Pos 4 - Plawangan Aik Berik (± 1,5 jam)\n\nVia Timbanuh\nEstimasi Perjalanan +- 8 - 11 Jam\n
+            1. Kantor taman nasional - Pos 1 (1-2 jam)\n
+            2. Pos 1 - Pos 2 (2-3 jam)\n
+            3. Pos 2 - Pos 3 ( 2-3 jam)\n
+            4. Pos 3 - Pelawangan Timbanuh (2-3 jam)\n\nVia Torean\nJalur ini tidak direkomendasikan untuk jalur pendakian hanya disarankan untuk jalur turun saja karena jalur trek yang sangat terjal dan curam.\n\nVia Tete Batu\nJalur ini masih terbilang baru jadi minim informasi, jika kalian ingin menggunakan jalur ini maka disarankan untuk menyewa guide.
+
+        </item>
+
+        <!-- Gunung Semeru-->
+        <item>\nVia Ranu Pane\n#Estimasi Perjalanan 8 - 10 Jam +- 8-12 Jam\n
+            1. Basecamp Ranu Pane – Pos 1 (Landengan Dowo) (1,3 jam) \n
+            2. Pos 1 (Landengan Dowo) – Pos 2 (Watu Rejeng) (45 menit)\n
+            3. Pos 2 (Watu Rejeng) – Pos 3 (1,3 jam)\n
+            4. Pos 3 – Pos 4 (1,3 jam)\n
+            5. Pos 4 - Ranu Kumbolo (30 menit)\n
+            6. Ranu Kumbolo – Oro-Oro Ombo (30 menit)\n
+            7. Oro-Oro Ombo – Cemoro Kandang (30 menit)\n
+            8. Cemoro Kandang – Jambangan (30 menit)\n
+            9. Jambangan – Kalimati (30 menit)\n
+            10. Kalimati – Kelik (2,3 jam)\n
+            11. Kelik – Puncak Semeru Mahameru (4 jam)\n\nVia Watu Rejeng\nJalur ini tidak disarankan karena minimnya informasi mengenai jalur atau track jadi jika ingin melewati jalur ini diharuskan menyewa guide.\n\nVia Ayek-Ayek\nJalur ini tidak disarankan karena minimnya informasi mengenai jalur atau track jadi jika ingin melewati jalur ini diharuskan menyewa guide.
+</item>
+        <!-- Gunung Merbabu -->
+        <item>\nVia Selo\nEstimasi Perjalanan 8 - 10 Jam\n
+            1. Basecamp – Pos 1 (kurang lebih 1,5 jam)\n
+            2. Pos 1 – Pos 2 (kurang lebih 45 menit)\n
+            3. Pos 2 – Pos 3 (kurang lebih 2,5 jam)\n
+            4. Pos 3 – Sabana 1 (kurang lebih 1 jam)\n
+            5. Sabana 1 – Sabana 2 (kurang lebih 1 jam)\n
+            6. Sabana 2 – Puncak Kenteng Songo/Triangulasi (+-1,5 jam)\n
+            7. Puncak Kenteng Songo – Puncak Syarif (kurang lebih 30 menit)\n\nVia Suwanting\nEstimasi Perjalanan 8 - 10 Jam\n1. Basecamp Suwanting – Gerbang Suwanting (30 menit) trekking\n
+            2. Basecamp Suwanting – Gerbang Suwanting (2-7 menit)\n
+            3. Gerbang Suwanting – Pos 1/Lembah Mempong (1 jam)\n
+            4. Pos 1 – Pos 2/Lembah Mitoh (1-2 Jam)\n
+            5. Pos 2 – Pos 3 (2 jam)\n
+            6. Pos 3 – Sabana 1 (30-45 menit)\n
+            7. Sabana 1 - Sabana 2 (40-50 menit)\n
+            8. Sabana 2 - Sabana 3 (25-30 menit)\n
+            9. Puncak Suwanting - Puncak Tringulasi (30-45 menit)\n10. Puncak Tringulasi - Puncak Kenteng Songo(10-15 menit)\n
+            11. Puncak Kenteng Songo - Puncak Syarif (30 menit)\n\nVia Thekelan\nEstimasi Perjalanan 7,5 - 8 Jam\n
+            1.  Basecamp - Pos 1 Pending (1 jam)\n
+            2. Pos 1 - Pos 2 Pereng Putih : (1 jam)\n
+            3. Pos 2 - Pos 3 Gumuk Menthul : (1 jam)\n
+            4. Pos 3 – Pos 4 Lempong Sampan : (1,5 jam)\n
+            5. Pos 4 – Watu Gubug : (40 menit)\n
+            6. Watu Gubug – Pemancar: (20 menit)\n
+            7. Pemancar – Puncak : (2 jam)\n\nVia Wekas\nEstimasi Perjalanan 6 - 7 Jam\n
+            1. Basecamp - Pos 2 : (2,5 jam)\n
+            2. Pos 2 - Tugu Perbatasan : (1 jam)\n
+            3. Tugu Perbatasan – Puncak : (2 jam)\n\nVia Cuntel\nEstimasi Perjalanan 6,5 - 7 Jam\n
+            1. Basecamp - Pos Bayangan l : 60 menit\n
+            2. Pos Bayangan l - Pos Bayangan ll : 30 menit\n
+            3. Pos Bayangan ll - Pos l : 60 menit\n
+            4. Pos l - Pos ll : 60 menit\n
+            5. Pos ll - Pos lll : 60 menit\n
+            6. Pos lll - Puncak Pemancar : 90 menit\n
+            7. Puncak Menara - Puncak Kenteng Songo : 90 menit
+        </item>
+
+        <!-- Gunung Lawu -->
+        <item>\nVia Candi Cetho\nEstimasi Perjalanan +- 10-11 Jam\n
+            1. Basecamp – Pos 1 (+- 1,3 jam)\n
+            2. Pos 1 - Pos 2 (+- 1 jam)\n
+            3. Pos 2 – Pos 3 (+- 2 jam)\n
+            4. Pos 3 – Pos 4 (+- 2 jam)\n
+            5. Pos 4 – Pos 5 (+- 2 jam)\n
+            6. Pos 5 - Gupak Menjangan (+-30 menit)\n
+            7. Gupak Menjangan - Pasar Dieng (+- 1 jam)\n
+            8. Pasar dieng - Hargo Dalem (+- 30 menit)\n
+            9. Hargo Dalem - Puncak Hargo Dumilah (+- 40 menit)\n\nVia Cemoro Sewu\nEstimasi Perjalanan +- 5-6 Jam\n
+            1. Basecamp – Pos 1 (+- 30 menit)\n
+            2. Pos 1 - Pos 2 (+- 1 jam)\n
+            3. Pos 2 – Pos 3 (+- 1,3 jam)\n
+            4. Pos 3 – Pos 4 (+- 1,3 jam)\n
+            5. Pos 4 – Pos 5 (+- 30 menit)\n
+            6. Pos 5 - Sendang Derajat (+- 10 menit)\n
+            7. Sendang Drajat - Hargo Dalem (+- 10 menit)\n
+            8. Hargo Dalem - Puncak Hargo Dumilah (+- 40 menit)\n\nVia Cemoro Kandang\nEstimasi Perjalanan +- 9-10 Jam\n
+            1. Basecamp – Pos 1 (+- 1,3 jam)\n
+            2. Pos 1 - Pos 2 (+- 1,3 jam)\n
+            3. Pos 2 – Pos 3 (+- 3,2 jam)\n
+            4. Pos 3 – Pos 4 (+- 2 jam)\n
+            5. Pos 4 – Pos 5 (+- 1 jam)\n
+            6. Pos 5 - Puncak Hargo Dumilah (+-30 menit)\n\nVia Tambak\nEstimasi Perjalanan +- 9-10 Jam\n
+            1. Basecamp – Pos 1 (+- 2 jam)\n
+            2. Pos 1 - Pos 2 (+- 1,3 jam)\n
+            3. Pos 2 – Pos 3 (+- 2 jam)\n
+            4. Pos 3 – Pos 4 (+- 1,3 jam)\n
+            5. Pos 4 – Pos 5 (+- 2 jam)\n
+            6. Pos 5 - Sunset Camp (+- 1 jam)\n
+            7. Sunset Camp - Selo Penangkep (+- 30 menit)\n
+            8. Selo Penangkep - Puncak Hargo Dumilah (+- 50 menit)\n\nVia Singolangu\nEstimasi Perjalanan +- 5-6 Jam\n
+            Basecamp – Pos 1 (+- 1,3 jam)\n
+            Pos 1 - Pos 2 (+- 2 jam)\n
+            Pos 2 – Pos 3 (+- 2 jam)\n
+            Pos 3 – Pos 4 (+- 2,3 jam)\n
+            Pos 4 – Pos 5 (+- 2 jam)\n
+            Pos 5 - Sedang Derajat (30 menit)\n
+            Sedang Derajat - Hargo Dalem (10 menit)\n
+            Hargo Dalem - Puncak Hargo Dumilah (40 menit)\n\nVia Tahura\n
+            Bukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.\n\nVia Jogorogo\n
+            Bukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.
+</item>
+
+
+        <!-- Gunung Raung -->
+        <item> \nVia Kalibaru (Puncak Sejati)\nEstimasi Perjalanan +- 10-13 Jam\n
+            1. Basecamp – Pos 1 Pondok Pak Sunarya (+- 4 jam berjalan kaki dan +- 30 menit menggunakan ojek)\n
+            2. Pos 1 Pondok Pak Sunarya – Pos 2 (+- 2 jam)\n
+            3. Pos 2 – Pos 3 (+- 1 jam)\n
+            4. Pos 3 – Pos 4 (+- 1 jam 30 menit)\n
+            5. Pos 4 – Pos 5 (+- 1 jam)\n
+            6. Pos 5 – Pos 6 (+- 1 jam)\n
+            7. Pos 6 – Pos 7 (+-1 jam)\n
+            8. Pos 7 – Pos 8 (+- 1 jam)\n
+            9. Pos 8 – Pos 9 (+- 1 jam)\n
+            10.Pos 9 – Puncak Bendera (+- 10 menit)\n
+            11.Puncak Bendera – Puncak 17 – Puncak Tusuk Gigi - Puncak Sejati (tergantung kelihaian dalam hal panjat tebing)\n\nVia Sumberwringin (Puncak Bayangan)\nEstimasi Perjalanan +- 11-14 Jam\n
+            Basecamp – Pos 1 (+- 3 jam berjalan kaki dan 1 jam menggunakan ojek)\n
+            1. Pos 1 – Pos 2 (+- 4 jam)\n
+            2. Pos 2 – Pos 3 Pondok Demit (+- 2 jam 30 menit)\n
+            3. Pos 3 Pondok Demit – Pos 4 Pondok Mayit (+- 1 jam 30 menit)\n
+            4. Pos 4 Pondok Mayit – Pos 5 Pondok Angin (+- 45 menit)\n
+            5. Pos 5 – Puncak Tusuk Gigi (+- 1 jam 30 menit)\n\nVia Glenmore\nBukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.\n\nVia Jambewangi\nBukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.\n\n
+</item>
+
+
+        <!-- Gunung Agung -->
+        <item>\nVia Pura Besakih\nEstimasi Perjalanan Jam 10 - 13 Jam\n
+            1. Pura Besakih - Pos 1 : 1 jam\n
+            2. Pos 1 - Pos 2 : 2 jam\n
+            3. Pos 2 - Pos 3 : 3 jam\n
+            4. Pos 3 - Pos 4 : 1 jam\n
+            5. Pos 4 - Pos 4 : 1 jam\n
+            6. Pos 5 - Puncak 1 : 1 jam\n
+            7. Puncak 1 - Puncak 2 : 30 menit\n
+            8. Puncak 2 - Puncak Gunung Agung : 30 menit\n
+            9. Pos 2 - Pos 3 : 2 Jam\n
+            10. Pos 3 - Puncak : 2 jam\n\nVia Pura Pasar Agung\nJalur ini sangat minim rambu dan tanda pada jalur jalurnya terjal dan jarang dilewati para pendaki, jadi bagi kalian yang ingin melewati jalur ini disarankan menyewa guide.
+        </item>
+
+        <!-- Gunung Andong -->
+        <item>\nVia Sawit\nEstimasi Perjalanan 1,3 - 2 Jam\n
+            1. Basecamp – Pos 1 (20 menit)\n
+            2. Pos 1 - Pos 2 (10 menit)\n
+            3. Pos 2 - Pos 3 (15 menit)\n
+            4. Pos 3 - Puncak (30 menit)\n\nVia Gogik\nEstimasi Perjalanan 1 - 1.5 Jam\n
+            1. Basecamp – Pos 1 (20 menit)\n
+            2. Pos 1 - Pos 2 Kendit (20 menit)\n
+            3. Pos 2 - Puncak Alap-alap (15 menit)\n
+            4. Puncak Alap-alap - Puncak Andong (10 menit)\n\nVia Pendem\nEstimasi Perjalanan 1 Jam\n
+            1. Basecamp – Pos 1 (20 menit)\n
+            2. Pos 1 - Pos 2 Kendit (15 menit)\n
+            3. Pos 2 - Puncak Alap-alap (15 menit)\n
+            4. Puncak Alap-alap - Puncak Andong (10 menit)
+        </item>
+
+        <!-- Gunung Gede -->
+        <item>\nVia Gunung Putri\nEstimasi Perjalanan 6 - 8 Jam\n
+            1. Basecamp – Pos 1 Legok Leunca (1 Jam)\n
+            2. Pos 1 - Pos 2 Buntut Lutung ( 1 - 1,5 Jam)\n
+            3. Pos 2 - Pos 3 Lawang Seketeng ( 1 Jam)\n
+            4. Pos 3 - Pos 4 Simpang maleber (1 Jam)\n
+            5. Pos 4 - Alun-alun Surya kencana Timur (1 Jam)\n
+            6. Alun-alun surya kencana - Puncak gunung agung (45 menit - 1 jam).\n\n
+            Via Selabintana\nEstimasi Perjalanan 9 - 12 Jam\n
+            1. Basecamp – Citingar - 40 menit\n
+            2. Citingar – Cegeber - 3 Jam\n
+            3. Cigeber – Cileutik - 6 Jam\n
+            4. Cileutik – Pertigaan	- 50 menit
+            5. Pertigaan – Surya Kencana - 20 menit\n
+            6. Surya Kencana – Puncak - 50 menit\n\nVia Pangrango Cibodas\nEstimasi Perjalanan 7-10 Jam\n
+            1. Basecamp – Tarengtong - 15 menit\n
+            2. Tarengtong – Telaga Biru - 20 menit\n
+            3. Telaga Biru – Rawa Panyangcangan - 20 menit\n
+            4. Rawa Panyangcangan – Rawa Denok  - 10 menit\n
+            5. Rawa Denok – Pemandangan - 10 menit\n
+            6. Pemandangan – Air Panas - 50 menit\n
+            7. Air Panas – Kandang Batu - 55 menit\n
+            8. Kandang Batu – Panca Weuleuh - 10 menit\n
+            9. Panca Weuleuh – Kandang Badak - 60 menit\n
+            10. Kandang Badak – Puncak - 130 menit
+        </item>
+
+        <!-- Gunung Argopuro -->
+        <item>nVia Bremi\nEstimasi Perjalanan 14,3  - 16 Jam\n
+            1. Polsek Krucil – Danau Taman Hidup (+- 4 jam)\n
+            2. Danau Taman Hidup – Hutan Lumut (+- 30 menit)\n
+            3. Hutan Lumut – Cemara Lima (+- 2 jam)\n
+            4. Cemara Lima – Angkene (+- 3 jam)\n
+            5. Pos 4 - Ranu Kumbolo (30 menit)\n
+            6. Angkene – Cisentor (kurang lebih 2 jam)\n
+            7. Cisentor – Rawa Embik (+- 2 jam)\n
+            8. Rawa Embik – Puncak Argopuro (+- 1 jam)\n\nVia Baderan\nEstimasi Perjalanan 13 - 15 Jam\n
+            1. Resort Perhutani – Pintu masuk hutan/Makadam (+- 4 jam)\n
+            2. Pintu masuk/Makadam – Mata Air I KM 4,2 (+- 2 jam)\n
+            3. Mata Air I – Mata Air II (+- 2 jam)\n
+            4. Mata Air II – Cikasur (+- 1 jam)\n
+            5. Cikasur – Cisentor (+- 1 jam)\n
+            6. Cisentor – Rawa Embik (+- 2 jam)\n
+            7. Rawa Embik – Puncak (+- 1 jam)
+        </item>
+
+        <!-- Gunung Sumbing -->
+        <item> \nVia Garung\nEstimasi Perjalanan +- 8-9 Jam\n
+                1. Basecamp – Pos 1 (+- 2 jam berjalan kaki, 30 menit naik ojek)\n
+                2. Pos 1 – Pos 2 (+- 2 jam)\n
+                3. Pos 2 – Pos 3 (+- 1 jam)\n
+                4. Pos 3 -  Pestan (+- 30 menit)\n
+                5. Pestan – Watu Kotak (+- 1 jam 30 menit)\n
+                6. Watu Kotak – Puncak Buntu/Kawah (+- 2 jam)\n
+                7. Puncak Kawah -  Puncak Sejati (+- 15 menit)\n\n
+                Via Butuh 6-7 Kaliangkrik\nEstimasi Perjalanan +- 5-6 Jam\n
+                1. Basecamp – Pos 1 (+- 1 jam)\n
+                2. Pos 1 – Pos 2 (+- 1 jam)\n
+                3. Pos 2 – Pos 3 (+- 1 jam)\n
+                4. Pos 3 – Pos 4 Pohon Tunggal (+- 1 jam)\n
+                5. Pos 4 – Puncak (+- 2 jam)\n\n
+                Via Bowongso\nEstimasi Perjalanan +-7 Jam\n
+                1. BASECAMP – Gardu Pandang (+- 30 menit)\n
+                2. Gardu Pandang – Pos I Taman Asmara (+- 30 menit)\n
+                3. Pos I – Pos II Bogel (+- 3 jam)\n
+                4. Pos II – Pos III (+- 1 jam)\n
+                5. Pos III – Puncak Buntu (+- 2 jam)\n
+                Via Cepit Parakan\nEstimasi Perjalanan +-7-8 Jam\n
+                1. Pos Pengamatan – Pos 1 (+- 1 jam)\n
+                2. Pos 1 – Pos 2 (+- 1 jam)\n
+                3. Pos 2 – Pos 3 (+- 1 jam)\n
+                4. Pos 3 – Kawah (+- 4 jam)\n
+                5. Kawah – Puncak Buntu (+- 15 menit)\n\n
+                Via Batursari\nEstimasi Perjalanan +- 9-10 Jam\n
+                1. Basecamp pintu Rimba (+- 1 jam)\n
+                2. Pintu rimba pos 1 (+- 30 menit)\n
+                3. Pos 1 pos 2 bisa (+- 2 jam 50 menit)\n
+                4. Pos 2 camp aman badai (+- 40 menit)\n
+                5. Camp aman badai pos 3 (+- 1 jam)\n
+                6. Pos 3 pos 4 (+- 1 jam 20 menit)\n
+                7. Pos 4 puncak (+- 1 jam 30 menit)\n\n
+                Via Sipetung\nEstimasi Perjalanan +- 11-12 Jam\n
+                1. Basecamp - Gerbang Pendakian (+- 1 Jam)\n
+                2. Gerbang Pendakian - Pos 1 (+- 30 menit)\n
+                3. Pos 1 - Kyai Santri (+- 2 jam)\n
+                4. Kyai Santri - Pos 2 (+- 1 jam 30 menit)\n
+                5. Pos 2 - Lembah Suci (+- 3 jam)\n
+                6. Lembah Suci - Pos 3 (+- 2 jam)\n
+                7. Pos 3 - Lemah Putih (+- 1 Jam)\n
+                8. Lemah Putih - Puncak Buntu (+- 30 Menit)\n\n
+                Via Banaran\nEstimasi Perjalanan +- 7,5-8 Jam\n
+                1. Basecamp – Pos 0 (+- 10 menit)\n
+                2. Pos 0 - Dongbanger (+- 15 menit)\n
+                3. Dongbanger - Gapura 1 (+- 7 menit)\n
+                4. Gapura 1 - Pos 1 (+- 40 menit)\n
+                5. Pos 1 - Pos 2 (+- 1 jam)\n
+                6. Pos 2 - Pos 3 (+- 1 jam)\n
+                7. Pos 3 - Pos 4 (+- 1,2 jam)\n
+                8. Pos 4 - Banjaran (+- 2 jam)\n
+                9. Banjaran - Puncak Rajawali (+- 1 jam)\n\n
+                Via Mangli\nEstimasi Perjalanan +- 7-8 Jam\n
+                1. Basecamp - Pos 1 (+- 1 jam)\n
+                2. Pos 1 - pos 2 (+- 1 jam)\n
+                3. Pos 2 - pos 3 (+- 1 jam)\n
+                4. Pos 3 -pos 4 (+- 2,5 jam)\n
+                5. Pos 4 - Puncak (+- 2 Jam)\n\n
+                Via Gajah Mungkur\nEstimasi Perjalanan +- 6-7 Jam\n
+                1. Basecamp – Plerehan Siwatu (+- 20 menit)\n
+                2. Plerehan Siwatu - Pos 1 (+- 45 menit)\n
+                3. Pos 1 - Pos 2 (+- 40 menit)\n
+                4. Pos 2 - Pos 3 (+- 1 jam)\n
+                5. Pos 3 - Pos 4 (+- 2 jam)\n
+                6. Pos 4 - puncak (+-30 menit)\n\nVia Dukuh Seman\n
+                Bukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.\n\n
+</item>
+
+
+        <!-- Gunung Sindoro -->
+        <item> \nVia Kledung\nEstimasi Perjalanan +- 7-8 Jam\n
+            1. Basecamp – Pos 1 (+- 15 menit menggunakan Ojek / 45 menit jalan kaki)\n
+            2. Pos 1 – Pos 2 (+- 60 menit)\n
+            3. Pos 2 – Pos 3 (+- 120 menit)\n
+            4. Pos 3 – Pos 4 (+- 90 menit)\n
+            5. Pos 4 – Puncak (+- 90 menit)\n\nVia Sigedang\nEstimasi Perjalanan +- 7-8 Jam\n
+            1. Basecamp – Pos Bayangan (+- 50 menit)\n
+            2. Pos Bayangan – Pos 1 (+- 20 menit)\n
+            3. Pos 1 – Pos 2 (+- 60 menit)\n
+            4. Pos 2 – Patok Besi (+- 10 menit)\n
+            5. Patok Besi – Pos 3 (+- 60 menit)\n
+            6. Pos 3 – Pos 4 Ladang Batu 1 (+- 90 menit)\n
+            7. Ladang Batu Satu – Ladang Batu Dua (+- 70 menit)\n
+            8. Ladang Batu Dua – Sabana (+- 30 menit)\n
+            9. Sabana – Segoro Wedi (+- 5 menit)\n
+            10.Segoro Wedi – Puncak (+- 10 menit)\n\nVia Ndoro Arum\nEstimasi Perjalanan +- 5 - 6 Jam\n
+            1. Basecamp – Pos 1 Ngrata (+- 1 jam)\n
+            2. Pos 1 Ngrata - Pos 2 Kayu Sawa (+- 1 jam)\n
+            3. Pos 2 kayu Sawa - Pos 3 Watu Putih (+- 1 jam)\n
+            4. Pos 3 Watu Putih - Pos 4 Uci-uci (+- 1,3 jam)\n
+            5. Pos 4 Uci-Uci - Puncak (+- 1 jam)\n\nVia Alang - alang Sewu\nEstimasi Perjalanan 5-6 Jam\n
+            1. Basecamp – Pos 1 Lembah Kesunyian (+- 60 menit)\n
+            2. Pos 1 – Pos 2 Lembah Katresnan (+- 60 menit)\n
+            3. Pos 2 – Pos 3 Alang Alang Sewu (+- 60 menit)\n
+            4. Pos 3 – Pos 4 (+- 60 menit)\n
+            5. Pos 4 – Puncak (+- 60 menit)\n)\n
+            Via Bansari\nEstimasi Perjalanan +- 9-10 Jam\n
+            1. Basecamp – Pos 1 sidempul (+- 120 menit)\n
+            2. Pos 1 – Pos 2 Turunan (+- 90 menit)\n
+            3. Pos 2 – Pos 3 Tunggangan (+- 90 menit)\n
+            4. Pos 3 – Pos 4 Bukit Soma (+- 40 menit)\n
+            5. Pos 4 – Pos 5 Mlelan (+- 120 menit)\n
+            6. Pos 5 – Pos 6 Centong (+- 90 menit)\n
+            7. Pos 6 – Puncak (+- 30 menit)\n\nVia Bedakah\nEstimasi Perjalanan +- 7 - 8 Jam\n
+            1. Basecamp – Pos Bayangan  (+- 1 jam)\n
+            2. Pos Bayangan - Gerbang hutan (+- 15 menit)\n
+            3. Gerbang Hutan - Cemara Lawang (+- 10 menit)\n
+            4. Cemara Lawang - Pos 1 Kandang Tawon (+- 15 menit)\n
+            5. Pos 1 - Sabana (+- 40 menit)\n
+            6. Sabana 1 - Tanjakan sringsrong (+- 15 menit)\n
+            7. Tanjakan sringsrong - Pos 2 Watu Panjang (+- 20 menit)\n
+            8. Pos 2 Watu Panjang - pos 3 Wulanggana (+- 1 jam)\n
+            9. Pos 3 Wulanggana - Sabana 2 Camp Area (+- 25 menit)\n
+            10.Sabana 2 Camp Area - Taman Khayangan (+- 30 menit)\n
+            11.Taman Khayangan - Pos 4 Kayu Emprit (+- 1 jam)\n
+            12.Pos 4 Kayu Emprit - Hutan Mati (+- 45 menit)\n
+            13.Hutan mati - Watu Pecah (+- 15 menit)\n
+            14.Watu Pecah - Puncak Sindoro (+- 5 menit)
+</item>
+
+
+        <!-- Gunung Slamet -->
+        <item>\nVia Bambangan\n Estimasi Perjalanan 11 - 12 Jam\n
+            1. Basecamp - Pos 1 : 3 jam\n
+            2. Pos 1 - pos 2 : 2 jam\n
+            3. Pos 2 - pos 3 : 70 menit\n
+            4. Pos 3 -pos 4 : 1 jam\n
+            5. Pos 4 - pos 5 : 45 menit\n
+            6. Pos 5 - pos 6 : 30 menit\n
+            7. Pos 6 - pos 7 : 20 menit\n
+            8. Pos 7 - pos 8 : 15 menit\n
+            9. Pos 8 - pos 9 : 30 menit\n
+            10. Pos 9 - puncak : 1 jam\n\nVia Gunung Malang\nEstimasi Perjalanan 10-11 Jam\n
+            1. Basecamp - Pos 1 = +- 1,5 Jam\n
+            2. Pos 1 - Pos 2 = +- 2 Jam\n
+            3. Pos 2  - Pos 3 = +- 2 Jam\n
+            4. Pos 3 - Pos 4  = +-1,5 Jam\n
+            5. Pos 4 - Pos 5  = +- 1 Jam\n
+            6. Pos 5 - Pos 6  = +- 30 Menit\n
+            7. Pos 6 - Pos 7  = +- 1 Jam\n
+            8. Pos 7 - Puncak  = +- 1 Jam\n\nVia Baturaden\nEstimasi Perjalanan 12 - 13 Jam\n
+            1. Basecamp - Pos 1 : 1 jam\n
+            2. Pos 1 - pos 2 : 3 jam\n
+            3. Pos 2 - pos 3 : 2 jam\n
+            4. Pos 3 -pos plawangan : 4 jam\n
+            5. Pos Plawangan - Puncak : 2 Jam\n\nVia Kaliwadas\nEstimasi Perjalanan 10 - 11 Jam\n
+            1. Kaliwadas - Tuk Suci : 45 menit\n
+            2. Tuk Suci - Pos 1 : 30 menit\n
+            3. Pos 1 - Pos 2 : 70 menit\n
+            4. Pos 2 - Pos 3 : 120 menit\n
+            5. Pos 3 - Pos 4 : 60 menit\n
+            6. Pos 4 - Pos 5 : 120 menit\n
+            7. Pos 5 - Plawangan : 90 menit\n
+            8. Plawangan - Puncak Slamet : 120 menit\n\nVia Guci\nEstimasi Perjalanan 6,5 - 7 Jam\n
+            1. Pos 1 - Pos 2 : 60 menit\n
+            2. Pos 2 - Pos 3 : 60 menit\n
+            3. Pos 3 - Pos 4 : 90 menit\n
+            4. Pos 4 - Plawangan : 100 menit\n
+            5. Plawangan - Puncak Slamet : 120 menit\n\nVia Dipajaya\nEstimasi Perjalanan 10 -11 Jam\n
+            1. Basecamp - Pos 1 : 45 menit\n
+            2. Pos 1 - pos 2 : 2 jam\n
+            3. Pos 2 - pos 3 : 3 jam\n
+            4. Pos 3 -pos 4 : 1 jam\n
+            5. Pos 4 - pos 5 : 45 menit\n
+            6. Pos 5 - pos 6 : 30 menit\n
+            7. Pos 6 - pos 7 : 20 menit\n
+            8. Pos 7 - pos 8 : 15 menit\n
+            9. Pos 8 - pos 9 : 30 menit\n
+            10. Pos 9 - puncak : 1 jam\n\nVia Jurang Mangu, Penakir, Cemara Sakti, Sawangan,  Dukuh Liwung, Kaligua\n
+            Bukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.
+
+        </item>
+        <!-- Gunung Prau -->
+        <item>\nVia Wates\nEstimasi Perjalanan 4-5 Jam\n
+            1. Basecamp – Pos 1 (Blumbang Kodok) (+- 45 menit)\n
+            2. Pos 1 - Pos 2 (Cemaran) (+- 25 menit)\n
+            3. Pos 2 - Pos 3 (Sudung Dewo) (+- 30 menit)\n
+            4. Pos 3 - Plawangan (+- 45 menit)\n
+            5. Plawangan - Cemoro Tunggal (+- 10 menit)\n
+            6. Cemoro Tunggal - Sunrise Camp (+- 25 menit)\n
+            7. Sunrise Camp Puncak Prau (+- 1Jam)\n\nVia Dieng\nEstimasi Perjalanan +- 3-4 Jam\n
+            1. Basecamp – Pos 1 (+- 30 menit)\n
+            2. Pos 1 - Pos 2 (+- 50 menit)\n
+            3. Pos 2 - Pos 3 (+- 50 menit)\n
+            4. Pos 3 - Puncak (+- 30 menit)\n
+            5. Puncak - Sunrise Camp (+- 1Jam)\n\nVia Patak Banteng\nEstimasi Perjalanan +- 4-5 Jam\n
+            1. Basecamp – Pos 1 (Sikut Dewo) (+- 35menit)\n
+            2. Pos 1 - Pos 2 (Canggal Walangan) (+- 25 menit)\n
+            3. Pos 2 - Pos 3 (Cacingan) (+- 30 menit)\n
+            4. Pos 3 - Sunrise Camp (+- 20 menit)\n
+            5. Sunrise Camp Puncak (+- 1 jam)\n\nVia Dwarawati\nEstimasi Perjalanan +- 4-5 Jam\n
+            1. Basecamp – Pos 1 (Cemoro Dongakar) (+- 45 menit)\n
+            2. Pos 1 - Pos 2 (+- 25 menit)\n
+            3. Pos 2 - Pertigaan Tower (+- 35 menit)\n
+            4. Pos 3 - Puncak (+- 30 menit)\n
+            5. Puncak - Sunrise Camp (+- 1 jam)\n\nVia Kalilembu\nEstimasi Perjalanan +- 4-5 Jam\n
+            1. Basecamp – Pos 1 (+- 20 menit)\n
+            2. Pos 2 - Pos 3 (+- 40 menit)\n
+            3. Pos 3 - Puncak (+- 1 jam 30 menit)\n
+            4. Puncak - Sunrise Camp (+- 1 jam)\n\nVia Igirmranak\nEstimasi Perjalanan +- 4-5 Jam\n
+            1. Basecamp – Pos 1 (+- 1 jam)\n
+            2. Pos 1 - Pos 2 (+- 1,5 jam)\n
+            3. Pos 2 - Pos 3 (+- 40 menit)\n
+            4. Pos 3 - Puncak (+- 1,5 jam)\n
+            5. Puncak - Sunrise Camp (+- 1 jam)\n\n
+        </item>
+        <!-- Gunung Ungaran -->
+        <item>\nVia Parantunan Gintungan Bandungan\nEstimasi Perjalanan 4 - 6 Jam\n
+            1. BC-Pos 1 17 Menit\n
+            2. Pos 1- Pos 2 13 Menit Pos 2 - Pos 3 17 Menit\n
+            3. Pos 3- Ondo Rante 10 Menit Ondo Rante - Pos 4 15 Menit\n
+            4. Pos 4 - Lembah Hantu 22 Menit\n
+            5. Lembah Hantu - Pos 5 14 Menit\n
+            6. Pos 5 - Ratan Watu Lumpang 22 Menit\n
+            7. Ratan Watu Lumpang - Lembah Jinten 18 Menit\n
+            8. Lembah Jinten - Puncak Tugu BR 20 Menit\n
+            Rute 2 Dari Pos 4\n
+            1. Pos 4 - Puncak Bondolan 32 Menit\n
+            2. Puncak Bondolan - Puncak Botak 38 Menit\n
+            3. Puncak Botak - Puncak Tugu BR 41 Menit\n\nVia Mawar\nEstimasi Perjalanan 3 -  4 Jam\n
+            1. Basecamp Mawar - Pos 1 (40 menit)\n
+            2. Pos 1 - Pos 2 (45 menit)\n
+            3. Pos 2 - Persimpangan Jalur Lama (45 menit)\n
+            4. Persimpangan - Puncak (2 jam 10 menit)\n\nVia Gedong Songo, Via Promoasan, Via Medini\nBukan Jalur resmi tetapi jika ingin melewati jalur ini maka perlu berdiskusi dengan warlok atau menyewa guide.\n</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Selain menjadi puncak tertinggi kedua di The Seven Summits of Indonesia, Gunung Kerinci juga merupakan gunung tertinggi di Sumatera dan gunung berapi tertinggi di Indonesia.Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) yang terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatra Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra. Untuk harga tiket registrasi /orang Weekday WNI : 20k, WNA : 310k, Weekend WNI : 25k. WNA : 460k. Estimasi rata-rata waktu mendaki gunung ini 2-3 hari.\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Rinjani merupakan gunung yang paling terfavorit di kalangan para pendaki yang sangat diimpikan atau di idam-idamkan untuk di daki. Rinjani dinobatkan sebagai gunung tercantik di Indonesia mengapa demikian? Yaitu karena termasuk seven summit Indonesia, summit trek pasir yang menantang, sunrise yang indah saat summit, tebing torean seperti Jurassic Park, makan ikan sepuasnya karena bisa mancing di danau Segara Anak, terdapat air panas pelepas lelah, semua keindahan diperoleh baik air terjun, savana, danau, di embat semua. Gunung ini berlokasi di Pulau Lombok, Nusa Tenggara Barat. Untuk registrasi atau booking online kunjungan dapat dilakukan melalui aplikasi eRinjani.\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Semeru atau Gunung Meru merupakan gunung tertinggi di Pulau Jawa. Gunung Semeru secara administratif termasuk dalam wilayah dua kabupaten, yakni Kabupaten Malang dan Kabupaten Lumajang, Provinsi Jawa Timur. Gunung ini termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru. Ada beberapa alasan mengapa kamu harus mendaki gunung ini yaitu pertama karena merupakan gunung tertinggi di jateng dan termasuk seven summit Indonesia yaitu puncak Mahameru, selama perjalanan menuju pos pendakian disuguhkan dengan indahnya pemandangan gunung Bromo, kemudian yang paling terfavorit ialah Ranu Kumbolo, tanjakan cinta menuju puncak semeru, Oro-oro Ombo yaitu padang lavender, dan terakhir tempat syutingnya film 5 cm yaitu film terbaik dan wajib ditonton oleh para pendaki. Sewa Jeep ke Ranu Pane Rp650.000 – Rp800.000, tiket masuk gunung semeru WNI : Rp19.000 (weekday), Rp24.000 (weekend), WNA : Rp210.000 (weekday), Rp310.000 (weekend).\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Merbabu merupakan primadonanya Jawa Tengah, yang disebut juga si karpet hijau karena luasnya hamparan sabana yang sangat indah dan memanjakan mata, jadi tak heran gunung ini sangat populer sekali dikalangan para pendaki. Gunung ini berada di wilayah Kabupaten Magelang di lereng sebelah barat dan Kabupaten Boyolali di lereng sebelah timur dan selatan, Kabupaten Semarang di lereng sebelah utara, Provinsi Jawa Tengah. Terdapat tiga puncak yang ada di gunung ini, yaitu Puncak Triangulasi , Puncak Kentheng Songo dan Puncak Syarief. Untuk mendaki gunung  ini kalian diwajibkan melakukan booking Online untuk mendata para calon pendaki dalam hal pengaturan kuota pendaki melalui website resmi BTN GMB http://www.tngunungmerbabu.org. Untuk harga tiket registrasi /orang Weekday WNI : 5k, WNA : 150k, Weekend WNI : 7.500, WNA : 225k. Untuk harga Ojek dikenakan 10k.\n\nTingkat Kesulitan : Menengah/Sedang </item>
+        <item>Gunung Lawu berlokasi di perbatasan Jawa Tengah dan Jawa Timur. Mengapa kamu harus mendaki  gunung ini? Yaitu ada beberapa alasan menaklukkan gunung yang terkenal dengan kemistisannya, terdapat warung tertinggi di indonesia yaitu merasakan pecel Mbok Yem di ketinggian 3.150 MDPL yang telah dibangun sejak 1980-an, dan terdapat desa tertinggi di indonesia yaitu desanya Mbok Yem dengan nama desanya Desa Hargo Dalem, Sabana Lawu via Candi Cetho indahnya bukan main, terdapat pasar dieng, terakhir sunrisenya yang menakjubkan dan lautan awan yang menawan. Untuk harga tiket registrasi /orang dikenakan 15-25k.\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Raung terletak di dalam tiga kabupaten yaitu Besuki, Banyuwangi, dan Bondowoso. Gunung Raung memiliki 4 puncak yang biasa dituju pendaki yakni Puncak Bendera, Puncak 17, Puncak Tusuk Gigi, dan Puncak Sejati. Puncak Sejati merupakan puncak tertinggi Gunung Raung yang berada di ketinggian 3.344 mdpl. Gunung raung termasuk dengan jalur pendakian ekstrim dan menjadi impian bagi para pendaki yang suka menguji adrenalin. Beberapa alasan kamu perlu menaklukkan puncak raung ini, yaitu terkenal dengan trek tersulit di pulau Jawa, pendakiannya mengharuskan naik turun tebing, memiliki kaldera kering terbesar kedua setelah Gunung Tambora. Sewa Guide ke puncak sejati dan alat = kurang lebih Rp 750.000/orang (peralatan sudah disiapkan oleh Guide), Sewa Jasa Porter untuk bawa 40 liter air ke post camp 7 = kurang lebih Rp 600.000, ongkos ojek dari basecamp ke Pos 1 = kurang lebih Rp 35.000, biaya simaksi apabila tidak membawa syarat utama (Ktp, Surat Sehat, Materai 6000) = Rp 15.000, biaya administrasi di basecamp = Rp 15.000/orang.\n\nTingkat Kesulitan : Sulit </item>
+        <item>Gunung Agung terletak di kecamatan Rendang, Kabupaten Karangasem, Bali, Indonesia. Pura Besakih, yang merupakan salah satu Pura terpenting di Bali, terletak di lereng gunung ini. Gunung Agung sendiri merupakan gunung yang sangat disucikan masyarakat Hindu Bali. Mereka percaya disinilah tempat bersemayamnya dewa-dewa. Masyarakat juga percaya jika di Gunung Agung juga terdapat istana Dewata. Untuk mendakinya diharuskan menyewa guide karena jika terjadi hilang atau meninggal maka harus diadakan upacara pensucian gunung yang mana akan menghabiskan biaya hingga ratusan juta, terus jika ingin mengambil air harus sembahyang terlebih dahulu karena mata air tersebut disucikan di bali itulah tujuannya menyewa guide agar mereka lah yang mewakilkan seluruh ritual adat selama melakukan pendakian. Gunung ini akan tutup jika terdapat acara Pura Besakih dan Pura Agung diadakan. Jika kamu ingin sampai di puncak tertinggi, yaitu 3.142 mdpl, maka kamu harus melalui jalur Pura Besakih, namun jika kamu hanya ingin sampai di puncak 1 (3.030mdpl) dan puncak 2 (2000mdpl) maka kamu bisa memilih melalui jalur Pura Pasar Agung. Simaksi : 25k (lokal) ; 100k (asing).\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Andong adalah sebuah gunung di Kabupaten Magelang , Jawa Tengah di Indonesia . Gunung Andong terletak di antara Ngablak dan Tlogorejo, Grabag dan memiliki ketinggian sekitar 1.463 meter. Gunung ini memiliki 4 puncak yaitu puncak Makam, Jiwa, Andong, dan Alap-alap, pemandangannya indah 360 derajat. Ada beberapa asalan kamu jadikan gunung ini sebagai wish list pendakian mu, pertama tingginya yang ramah untuk pendaki pemula, cocok buat tektok,  jalur pendakian yang aman dan mudah, terdapat warung di puncak, pemandangannya yang indah karena dikelilingi oleh beberapa gunung di Jateng. Jadi gunung ini sangatlah strategis puncaknya mudah tapi view nya super indah. Untuk Simaksi 20k /Orang.\n\nTingkat Kesulitan : Mudah/Pemula</item>
+        <item>Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980. Gunung ini berada di dua wilayah kabupaten yaitu Kabupaten Cianjur dan Sukabumi. Terdapat dua puncak yaitu puncak Gede (2.958 mdpl) dan puncak Pangrango (3.019 m dpl). Suhu rata-rata di puncak gunung Gede 18 °C dan di malam hari suhu puncak berkisar 5 °C. Beberapa alasan kenapa harus mendaki gunung ini yaitu alun-alun surya kencana yang terhampar luas dengan ditumbuhi banyaknya bunga edelweis,  trek gunung ini terbilang ramah untuk pendaki pemula, petunjuk arah yang jelas, dan dengan kuota pendakian yang banyak jadi jangan takut kekurangan kuota. Simaskinya mulai 17.500 - 34.000. Simaksi weekday 29k dan weekand 34k.\n\nTingkat Kesulitan : Menengah/Sedang </item>
+        <item>Gunung ini terletak di Kabupaten Probolinggo, Kabupaten Situbondo, Kabupaten Jember, dan Kabupaten Bondowoso. Gunung Argopuro masuk dalam kawasan Suaka Margasatwa Hyang, dengan bentang alam yang terdiri dari hutan hujan tropis, hutan cemara, savanna, rawa/danau. Kawasan ini juga memiliki beberapa puncak didalamnya. alasan para pendaki mendaki gunung ini adalah karena padang savana yang luas yaitu pesona padang cikasur, kalau beruntung bisa menemukan burung merak, dapat menaklukkan trek terpanjang se-Jawa, dan tentunya spot yang ikonik dari gunung argopuro yaitu danau taman hidup yang terdapat dermaga kayu tua. Ada 3 puncak paling tinggi di kawasan ini, yaitu Puncak Argopuro (3.088 mdpl), Puncak Rengganis (3.060 mdpl), dan Puncak Arca (3.000 mdpl). Untuk simaksi WNA 20k hari biasa dan 30k hari libur, untuk WNA 250k hari weekday dan 375k weekend, Untuk harga ojek sekitar 70-100 tergantung negosiasi yang dilakukan. \n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Sumbing merupakan gunung Sumbing merupakan gunung tertinggi ketiga di Pulau Jawa setelah Gunung Semeru dan Gunung Slamet. Gunung ini secara administratif terletak di tiga wilayah kabupaten, yaitu Kabupaten Magelang; Kabupaten Temanggung; dan Kabupaten Wonosobo. Gunung sumbing memiliki 2 puncak yaitu puncak sejati dan puncak selo konten. Beberapa alasan mendaki gunung ini adalah sunrisenya yang indah, savana yang sangat ciamik, dapat melihat kembarannya yaitu gunung Sindoro, dan memiliki jalur pendakian yang sangat banyak. Adapun Simaksinya ialah 20k/orang dan 20-25k untuk ojek. \n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Sindoro terletak di di Jawa Tengah, Indonesia, dengan Temanggung sebagai kota terdekat yang berdampingan dengan Gunung Sumbing. Alasan para pendaki mendaki gunung ini karena lautan awannya indah, terdapat sunrise camp yang dimana bangun pagi langsung melihat indahnya lautan awan yang berhias emas dari cahaya sunrise, terdapat savana edelweis, terdapat telaga ajaib di puncak sindoro tetapi hanya muncul ketika musim hujan saja, dapat melihat langsung kawah aktifnya sindoro. Simaksinya : 20-30k, dan ojek juga berkisar 20-30k. \n\nTingkat Kesulitan : Menengah/Sedang</item>
+        <item>Gunung Slamet adalah gunung tertinggi di Jawa Tengah dan gunung tertinggi kedua di pulau Jawa, setelah gunung Semeru. Gunung ini di idamkan para pendaki karena jalur ke puncak yang cukup ekstrim, panorama kawahnya yaitu segoro wedi, panorama sunrise yang cantik, variasi jalur yang berbeda-beda mulai dari perkebunan warga, hutan pinus, hutan lebat, lorong sempit dan trek bebatuan, dan dipercaya sebagai gunung keramat yaitu terdapat lokasi mistis yaitu pos Samarantu, di mana dipercaya sebagai pintu masuk ke kerajaan gaib yang ada di Gunung Slamet. Untuk harga tiket registrasi /orang 15-25k. Untuk harga Ojek bervarian ada yang 30k sampai pos bayangan 60k turun di pos 1.\n\nTingkat Kesulitan : Sulit</item>
+        <item>Gunung Prau merupakan salah satu gunung di dataran Tinggi Dieng, Jawa Tengah, Indonesia yang merupakan primadonanya para pendaki pemula yang ingin pendakiannya mudah tapi mendapatnya view indah, inilah gunung yang paling tepat. Keunggulan lainnya dari gunung prau yaitu bukit teletubisnya, banyaknya bunga Daisy yang bermekaran di seluas sabana prau dan paling banyak dijumpai di sunrise camp. Kemping di puncaknya tidak menyeramkan seperti gunung lainnya karena banyak sekali tenda-tenda pendaki lainnya yang tidak pernah sepi pengunjung. Simaksi tiap bascamp berbeda dari kisaran 10-25k.\n\nTingkat Kesulitan : Mudah/Pemula</item>
+        <item>Gunung Ungaran terletak di Ungaran, Kabupaten Semarang, Jawa Tengah dan memiliki ketinggian 2.050 meter. Gunung ini merupakan gunung yang sangat direkomendasikan bagi pendaki pemula karena treknya yang ramah. Memiliki are camp yang luas dan hamparan sabana yang berbentuk punggung naga juga lautan awan yang indah. Gunung Ungaran setidaknya memiliki tiga puncak. Ketiganya yakni Puncak Gendol, Puncak Botak, dan Puncak Ungaran. Puncak Ungaran merupakan yang tertinggi di ketinggian 2.050 mdpl. Simaksi: Untuk Registrasi Camping : 15k dan tektok 10k.\n\nTingkat Kesulitan : Mudah/Pemula</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kerinci</item>
+        <item>@drawable/rinjani</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/merbabu</item>
+        <item>@drawable/lawu</item>
+        <item>@drawable/raung</item>
+        <item>@drawable/agung</item>
+        <item>@drawable/andong</item>
+        <item>@drawable/gede</item>
+        <item>@drawable/argopuro</item>
+        <item>@drawable/sumbing</item>
+        <item>@drawable/sindoro</item>
+        <item>@drawable/slamet</item>
+        <item>@drawable/prau</item>
+        <item>@drawable/ungaran</item>
+    </integer-array>
+
+    <string-array name="title_education">
+        <item>Hipotermia</item>
+        <item>Tips Menghadapi Orang Terkena Hipotermia</item>
+        <item>Tips Mencegah Terjadinya Hipotermia</item>
+        <item>Tanda - Tanda Seseorang Terkena Hipotermia</item>
+        <item>Tips Mendaki Saat Musim Hujan</item>
+        <item>Larangan Saat Mendaki Gunung</item>
+        <item>Tips Memasak Nasi di Gunung</item>
+        <item>Tips Ketika Terjebak Badai</item>
+        <item>Cara BAB di Gunung</item>
+        <item>Faktor Penyebab Tersesat dan Hilang</item>
+        <item>Tips Agar Tidak Tersesat</item>
+        <item>Tips Jika Tersesat</item>
+        <item>Tips Menghindari Petir di Gunung</item>
+        <item>Tips Pendakian Pertama</item>
+        <item>Tips Mendaki Gunung Ketika Menstruasi</item>
+
+    </string-array>
+
+    <string-array name="description_education">
+
+
+        <!-- Hipotermia -->
+        <item>\nApa itu Hiptermia?\nHipotermia adalah dimana kondisi tubuh kita turun drastis di bawah 35*C. Biasanya suhu tubuh bisa menghasilkan panas, tetapi jika kalian terkena hipotermia tubuh kalian akan kedinginan atau menggigil nah level hipotermia paling parah bahkan bukan cuman dingin tapi malah kepanasan.\n\nPenyebab Hipotermia terjadi digunung\n1.Terkena paparan dingin\n2. Adanya angin kencang\n3. Tubuh dalam keadaan basah\n4. Kurangnya persiapan seperti pakaian, peralatan dan asupan yang sesuai\n5. Kondisi fisik yang lemah akibat kurang tidur dan kelelahan\n6. Kondisi kesehatan yang kurang baik\n6. Kurang asupan makan dan minum</item>
+        <item>\n1. Mencari tempat yang lebih hangat,\n2. Mengganti pakaian yang basah dengan pakaian yang kering dan hangat\n3. Memberikan sumber panas seperti selimut dan botol air hangat untuk memulihkan suhu\n3. Memberikan minuman hangat seperti teh atau cokelat\n4. Pantau gejala-gejala yang ditunjukkan, dan\n5. jika kondisi semakin parah segera hubungi tim penyelamat.</item>
+        <item>\n1. Mempersiapkan pakaian yang sesuai dengan kondisi di gunung\n2. Kenakan pakaian dengan bahan termal, sutra, atau wol\n3. Kenakan alas kaki yang tahan air\n4. Hindari berkeringat terlalu banyak\n5. Mengenakan topi membantu menjaga suhu tetap normal,\n6. Memilih asupan makanan dan minuman yang cocok\n7. Hindari alkohol dan tembakau\n8. Mempelajari kondisi cuaca saat akan melakukan pendakian\n9. Istirahat yang cukup agar tidak merasa lelah, dan\n10. Membawa perlengkapan seperti sleeping bag, syal, selimut, tenda, jaket, dan sarung tangan.</item>
+        <item>\nTanda - tanda seseorang terkena Hipotermia\n\n1. Tanda Awal\n- Kedinginan\n- Gemetar\n-Kulit terlihat pucat\n- Napas Pendek\n- lemas atau kelelahan\n\n2. Tanda Serius\n- Kesulitan untuk berdiri\n- Menggigil semakin tak terkendali\n- Gangguan kesadaran secara signifikan\n- mati rasa\n- kulit terlihat sangat pucat bahkan abu-abu\n\n3. Tanda Bahaya\n- Halusinasi yang parah\n- Hilangnya kemampuan untuk berbicara\nNadi yang melambat\n- Hilangnya koordinasi dan keseimbangan\n- Pernapasan melambat</item>
+        <!-- Tips mendaki Saat Musim Hujan -->
+        <item>  1. Wajib membawa jas hujan\n\n
+            2. Stok pakaian ganti lebih banyak dari biasanya\n\n
+            3. Bungkus barang bawaan menggunakan kantong plastik atau trashbag.\n\n
+            4. Bawa fly sheet untuk melindungi tenda dari kondensasi (Rembes)\n\n
+            5. Waspada petir yaitu jangan mendirikan tenda di padang savana yang luas</item>
+        <!-- Larangan saat mendaki -->
+        <item>1. Membuang sampah sembarangan\n\n
+                2. Merusak alam\n\n
+                3. Merusak alam atau mencuri flora dan fauna\n\n
+                4. Keluar dari jalur pendakian\n\n
+                5. Membawa tisu basah\n\n
+                6. Melanggar norma kesopanan terutama budaya lokal\n\n
+                7. Membangun api unggun di tempat yang dilarang\n\n
+                8. Menyalakan api atau merokok di area yang tidak diizinkan\n\n
+                9. Mendaki gunung secara liar atau tanpa izin\n\n
+                10. Tidak memperhatikan keselamatan diri sendiri dan anggota tim\n\n</item>
+        <!-- Tips Memasak Nasi di Gunung -->
+        <item>1. Beras 200g atau 1 gelas kopi untuk 1 orang dalam sehari(3x)\n\n
+                2. Cuci beras dengan air secukupnya \n\n
+                3. Untuk banyaknya air yaitu seruas jari\n\n
+                4. Masak beras dengan api sedang hingga airnya menyusut sambil diaduk-aduk sekitar 10-15 menit\n\n
+                5. Selanjutnya kecilkan api hingga yang paling kecil \n\n
+                6. Lapisi beberapa tisu untuk menyerap uap air pada tutup nesting\n\n
+                7. Tunggu sampai matang sekitar 30 menit.\n\n
+                8. Nasi siap disantap bersama\n\n</item>
+        <!-- Tips Ketika Terjebak Badai-->
+        <item>1. Jangan mendirikan tenda di area yang terbuka\n\n
+                2. Apabila terlanjur usahakan berlindung di lembah atau dataran rendah lainnya\n\n
+                3. Hindari berteduh di bawah pohon-pohon yang terlalu tinggi\n\n
+                4. Jauhi air dan benda yang terbuat dari logam\n\n
+                5. Matikan semua perangkat elektronik\n\n
+                6. Gunakan alas agar tidak bersentuhan dengan tanah langsung\n\n
+                7. Pasang pasak tenda dan tali flysheet sebaik mungkin agar tidak kabur terbawa angin</item>
+
+        <!-- Cara BAB di Gunung -->
+        <item>1. Siapkan air, tisu, sekop atau kayu\n\n
+                2. Cari tempat yang jauh dari area camp\n\n
+                3. Usahakan di semak-semak tertutup yang bukan jalur pendakian\n\n
+                4. Gali tanah menggunakan skop atau kayu\n\n
+                5. Setelah selesai basahi tisu kering dengan air lalu bersihkan\n\n
+                6. Terakhir cuci tangan dan ditutup lagi bekasnya</item>
+        <!-- Tersesat dan Hilang -->
+        <item>\nTerdapat 3 Faktor penyebab tersesat atau hilang di gunung yaitu:\n1.Faktor Pribadi\n- Mementingkan Ego\n- Tidak mencari info jalur pendakian\n- Tidak menguasai ilmu navigasi\n- Tidak fokus dan hilang konsentrasi\n\n2. Faktor Teknis\n- Menggunakan jalur pintas\n- Tidak memperhatikan sekitar\n- Minimnya rambu - rambu pendakian atau petunjuk arah\n\n3. Faktor Alam dan Kondisi\n- Pengaruh Cuaca\n- Pendakian malam hari\n- Daerah Sabana\n- Kawasan Puncak atau Batas Vegetasi seperti pasir, kerikil dan bebatuan</item>
+        <item>\n1. Mendaftar di Basecamp Pendakian\n2. Sewa Pemandu\n3. Memiliki peta jalur dari basecamp\n4. Selalu bersama rombongan\5. Mendaki lewat jalur resmi\n6. Belajar ilmu navigasi darat\n7. Mendaki ketika cuaca cerah</item>
+        <item>\n1. Usahakan jangan panik\n2. Duduk saja dulu, tenangkan pikiran\n3. Berpikir dengan jernih\n4. Lakukan observasi terlebih dahulu\5. Atur rencana untuk langkah selanjutnya\n6. Tentukan arah mata angin\n7. Kembali ke lokasi awal atau menuju puncak\n8. Membuat sinyal SOS\n10. Mencari Bahan makanan\n11. Ikuti aliran air ke dataran rendah\n12. Buat tanda jejak</item>
+        <!-- Tips menghindari petir di Gunung -->
+        <item>1. Segera hentikan perjalanan dan cari tempat berlindung\n\n
+                2. Matikan semua perangkat elektronik yang masih menyala\n\n
+                3. Lepaskan semua aksesoris yang berbahan logam\n\n
+                4. angan memaksakan diri mendaki gunung saat cuaca buruk\n\n
+                5. Hindari berlindung di bawah pohon\n\n
+                6. Jangan berendam di danau, kolam atau aliran sungai saat hujan petir\n\n
+                7. Segera menjauh dari sabana\n\n
+                8. Jangan coba-coba mendekati menara tinggi/Tower/alat pendeteksi gempa bumi\n\n
+                9. Segera berjongkok, rapatkan kaki dan tutup telinga\n\n
+                10. Jaga jarak antar rombongan minimal 3-5 meter
+        </item>
+        <!-- Tips Pendakian Pertama -->
+        <item>1. Pengetahuan seputar gunung yang ingin didaki \n\n
+                2. Pilihlah hari dengan cuaca yang cerah dan bagus\n\n
+                3. Usahakan jangan mendaki ketika musim hujan\n\n
+                4. Latihan fisik setidaknya seminggu sebelum hari H pendakian.\n\n
+                5. Mempersiapkan tim pendaki dan perlengkapan yang akan dibawa dengan matang\n\n
+                6. Membentuk tim dengan jumlah 5-8 orang.\n\n
+                7. Apabila berangkat hanya ber-3, usahakan 1 orangnya sudah berpengalaman\n\n
+                8. Utamakan Keselamatan, gunakanlah pakaian dan kelengkapan khusus untuk mendaki gunung\n\n
+                9. Bawalah makanan dan minuman secukupnya\n\n
+                10. Jangan membuang sampah sembarangan\n\n
+                11. Sebaiknya mulai mendaki saat pagi hari pukul 10.00-13.00 atau malam hari pukul 18.00-19.00.\n\n
+                12. Dirikan tenda di tempat yang datar\n\n
+                13. Usahakan diselimuti pohon atau semak supaya tidak terkena angin gunung langsung\n\n
+                14. Jangan pernah samakan semua gunung, mereka memiliki ciri khas tersendiri.\n\n
+                15. Jangan pernah sombong, pada dasarnya gunung bukan untuk ditaklukkan!
+
+        </item>
+        <!-- Tips Mendaki Gunung ketika menstruasi -->
+        <item>1. Kenali tubuhmu sendiri\n\n
+                2. Bawa pembalut kemana saja\n\n
+                3. Hindari makanan atau minuman yang dilarang\n\n
+                4. Jujur kalau sedang datang bulan\n\n
+                5. Minum obat pereda nyeri haid\n\n
+                6. Ganti pembalut tiap 4 jam sekali\n\n
+                7. Simpan pembalut bekas kedalam plastik dengan benar\n\n
+                8. Bawa turun kembali bekas pembalut\n\n
+                9. Jauhkan pikiran negatif \n\n
+                10.Minum air putih lebih banyak</item>
+
+    </string-array>
+
+    <integer-array name="photo_equ">
+        <item>@drawable/tascarr</item>
+        <item>@drawable/sleepingbag</item>
+        <item>@drawable/topi</item>
+        <item>@drawable/cookingset</item>
+        <item>@drawable/p3k</item>
+        <item>@drawable/flashlight</item>
+        <item>@drawable/headlamp</item>
+        <item>@drawable/jaket</item>
+        <item>@drawable/knife</item>
+        <item>@drawable/matras</item>
+        <item>@drawable/portablegas</item>
+        <item>@drawable/jashujan</item>
+        <item>@drawable/sepatu</item>
+        <item>@drawable/trekkingpole</item>
+        <item>@drawable/trousers</item>
+    </integer-array>
+    <string-array name="data_equ">
+        <item>Tas Gunung</item>
+        <item>Sleeping Bag</item>
+        <item>Topi</item>
+        <item>Cooking Set</item>
+        <item>First Aid Kit</item>
+        <item>Senter dan Lampu Tenda</item>
+        <item>HeadLamp</item>
+        <item>Jaket</item>
+        <item>Pisau</item>
+        <item>Matras Gunung</item>
+        <item>Gas Portable</item>
+        <item>Jas Hujan</item>
+        <item>Sepatu dan Sandal Gunung</item>
+        <item>Trekking Pole</item>
+        <item>Celana Panjang</item>
+    </string-array>
+
+    <integer-array name="photo_color">
+        <item>@drawable/kerinci</item>
+        <item>@drawable/rinjani</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/merbabu</item>
+        <item>@drawable/lawu</item>
+        <item>@drawable/raung</item>
+        <item>@drawable/agung</item>
+        <item>@drawable/andong</item>
+        <item>@drawable/gede</item>
+        <item>@drawable/argopuro</item>
+        <item>@drawable/sumbing</item>
+        <item>@drawable/sindoro</item>
+        <item>@drawable/slamet</item>
+        <item>@drawable/prau</item>
+        <item>@drawable/ungaran</item>
+    </integer-array>
+
+
+    <string-array name="desc_equ">
+        <item>Tas Gunung merupakan hal yang wajib dibawa saat melakukan pendakian karena tentunya berfungsi sebagai kapasitas penyimpanan (peralatan, pakaian, makanan, air, dan perlengkapan lain), kemudian sebagai dukungan dan keseimbangan, sistem penyandang, perlindungan terhadap cuaca dan keamanan, membantu penggunanya dalam membawa beban dengan nyaman dan aman selama pendakian gunung atau kegiatan petualangan, dan memungkinkan pengguna untuk memiliki akses mudah ke perlengkapan dan menjaga peralatan tetap terorganisir selama perjalanan di alam bebas. </item>
+        <item>Sleeping Bag merupakan selimutnya anak gunung, jika kalian meninggalkannya maka siaplah menerima dinginnya angin malam yang sangat menusuk. Sleeping bag atau sering disebutnya SB, fungsinya memberikan isolasi termal untuk menjaga Anda tetap hangat di lingkungan yang dingin. Sleeping bag dirancang dengan lapisan isolasi di dalamnya, seperti serat sintetis atau down (bulu angsa atau bebek), yang membantu menjaga panas tubuh Anda dan mencegah kehilangan panas yang berlebihan saat anda tidur. Sleeping bag juga memberikan perlindungan dari elemen alam seperti angin, embun, dan serangga. SB juga memberikan perlindungan dari elemen alam seperti angin, embun, dan serangga.</item>
+        <item>Topi merupakan melindungi kepala dari cuaca ekstrem dan lingkungan alam yang kasar. Adapun beberapa fungsi dari topi tentunya sebagai pelindung dari sinar matahari biasanya sering terjadi ketika summit di puncak yang jarang terdapat pepohonan dan juga di jalur trak, penghalang terhadap hujan dan cuaca buruk, menjaga suhu tubuh karena kebanyakan panas tubuh hilang melalui kepala, perlindungan dari serangga baik yang terbang maupun yang jatuh dari atas pohon. </item>
+        <item>Peralatan masak banyak macam jenisnya, apapun peralatan biasa yang kalian pakai untuk memasak bisa dibawa ke gunung selagi barang itu muat dan tidak memakan banyak tempat. Tentunya fungsi kalian membawa alat masak ialah sebagai peralatan memasak apapun itu selama mendaki mengurangi beban dan sampah karena dengan membawa peralatan masak kita bisa membuat masakan dengan lebih banyak dari barang bawaan yang sedikit dan mengurangi ketergantungan pada makanan siap saji yang dibungkus dengan plastik. </item>
+        <item>P3K (Pertolongan Pertama pada Kecelakaan) adalah serangkaian tindakan pertolongan pertama yang dapat dilakukan saat mendaki gunung baik berupa obat pribadi dan kelompok. Penting untuk membawa peralatan P3K saat mendaki gunung untuk menghadapi kemungkinan cedera atau kecelakaan tentunya kita harus sedia payung sebelum hujan. Fungsinya adalah sebagai penanganan cedera ringan seperti lecet, goresan, luka bakar ringan, atau sengatan serangga, imobilisasi cedera tulang atau sendi, penanganan luka paran, memberikan bantuan pernapasan, penanganan dehidrasi dan gangguan lainnya</item>
+        <item>Jika kalian melakukan pendakian sampai bertemu malam hari maka kalian akan dihadapkan dengan situasi malam gelap gulita yang mana jika cuman mengandalkan senter hp batrainya tidak awet, maka dari itu pentingnya kalian membawa lampu penerang di dalam tenda yang akan membuat kalian merasa nyaman saat di dalam tenda. Fungsi utamanya ialah sebagai penerang, kemudian sebagai keamanan misal di luar tenda terdapat akar atau batu yang bisa membuat cedera, membuat lingkungan tenda terasa nyaman dan aman bisa bercanda dengan teman kalau gelap kegiatan di malam hari seperti memasak makanan, merawat peralatan, dan lainnya. </item>
+        <item>Senter kepala atau Headlamp sangat memudahkan kita saat beraktifitas di malam hari seperti BAK, BAB, mencari kayu, serta aktivitas apapun di malam hari saat di luar tenda maupun di dalam tenda saat mencari barang di dalam tas. Yang paling sering digunakan pendaki ialah untuk pencahayaan di saat trekking summit. Lampu kepala sangat berguna dalam situasi darurat atau krisis, jika Anda tersesat, terlambat, atau mengalami keadaan darurat di malam hari, lampu kepala memberikan cahaya yang cukup untuk memandu Anda atau menarik perhatian tim penyelamat, dan paling penting sebagai keamanan dan keselamatan.</item>
+        <item>Jaket sangatlah dibutuhkan di saat mendaki gunung, karena semua gunung rata-rata memiliki udara yang dingin sehingga tubuh kita membutuhkan pelindung supaya tidak terkena hipotermia. Adapun fungsinya ialah sebagai perlindungan dari cuaca buruk, melindungi dari suhu dingin dan tentunya ini sangat penting jika ditinggalkan berpotensi terkena hipotermia, isolasi termal menjaga suhu tubuh, melindungi dari kerusakan yang disebabkan oleh kontak dengan batu, ranting, atau permukaan kasar lainnya saat pendakian. </item>
+        <item>Membawa pisau saat mendaki gunung adalah penting dan dianggap sebagai bagian dari perlengkapan penting untuk kegiatan outdoor. Pisau memiliki peran utama untuk semua kegiatan di alam baik buat memotong, memangkas, dan lain sebagainya karna jika ada pisau maka kalian dapat dengan mudah membuat apapun dengan pemanfaatan bahan alam. Selain itu juga berfungsi sebagai membuat peralatan darurat, membuat perkakas dan alat, membantu memasak dan mengolah makanan, menjaga kebersihan dan perawatan pribadi dan tentunya sebagai keperluan keamanan. </item>
+        <item>Matras merupakan sarana perlengkapan kenyamanan saat tidur. Tetapi bukan hanya untuk tidur saja terdapat banyak fungsi dari matras yaitu sebagai, isolasi termal, jadi matras memberikan lapisan tambahan antara tubuh Anda dan permukaan tanah atau batu, perlindungan dari kelembaban misal tanahnya basah atau tergenang air, perlindungan dari benda keras seperti batu kerikil maupun ranting dan akar kayu, juga dapat menjadi alas memasak di luar tenda. </item>
+        <item>Saat Anda memasak tentunya perlu yang namanya gas untuk kompor portable yang kita bawa, jaki kita dapat memasak makanan yang membutuhkan pemanasan, merebus air, atau menghangatkan makanan instan. Beberapa kompor gas portable dilengkapi dengan pemantik atau alat penghangat khusus yang dapat digunakan untuk memanaskan ruangan kecil atau tenda Anda. Dalam keadaan basah atau lembab, gas portable dapat digunakan untuk membantu mengeringkan pakaian atau sepatu.Dan terakhir sebagai perlindungan situasi darurat, gas portable dapat digunakan untuk membuat sinyal asap atau api sebagai sinyal bantuan atau untuk menjaga kehangatan dalam kondisi cuaca yang buruk.</item>
+        <item>Jas hujan sangat wajib dibawa karena fatalnya jika kalian meninggalkan barang ini. Jas hujan berfungsi sebagai perlindungan dari hujan, angin, embun, menghindari terkena hipotermia dan perlindungan dari kotoran dan bahan kimia. Selain melindungi dari hujan, jas hujan juga dapat memberikan perlindungan dari kotoran, seperti lumpur, tanah, atau bahan kimia yang mungkin ada di sekitar area pendakian. Jas hujan yang tahan air dan tahan terhadap bahan kimia akan membantu menjaga pakaian Anda tetap bersih dan melindungi kulit Anda dari kontak langsung dengan zat yang berbahaya.</item>
+        <item>Sepatu dan sandal berperan penting saat melakukan pendakian, perlunya sepatu yang mendukung aktivitas pendakian kalian seperti sepatu yang memiliki telapak bergerigi dan kokoh. Fungsi utama sepatu saat mendaki gunung adalah melindungi kaki Anda. Sepatu gunung yang dirancang khusus memiliki fitur perlindungan seperti bahan yang tahan air, tahan goresan, dan sol yang kuat. Ini membantu mencegah cedera seperti lecet, luka gores, dan tusukan yang mungkin terjadi selama pendakian. Perlindungan dari elemen alam seperti air, salju, atau angin. Bahan yang tahan air atau dilapisi dengan lapisan perlindungan dapat menjaga kaki Anda tetap kering dalam cuaca basah atau bersalju. Beberapa sepatu gunung juga dilengkapi dengan bahan isolasi yang membantu menjaga kaki tetap hangat di lingkungan yang dingin.</item>
+        <item>Trekking pole merupakan alat bantu untuk menahan badan saat mendaki dengan kemiringan tanah yang mungkin sampai 30 derajat. Fungsinya tentunya sebagai stabilitas dan keseimbangan saat mendaki, terutama di medan yang tidak rata atau licin. Dengan menggunakan dua trekking pole, Anda memiliki dukungan tambahan untuk menjaga keseimbangan tubuh Anda, mengurangi risiko tergelincir atau jatuh. Kemudian mengurangi beban pada sendi kaki dan lutut. Tongkat pendakian membantu meredistribusikan beban tubuh Anda ke lengan Anda, mengurangi tekanan pada sendi dan otot kaki. Ini sangat bermanfaat saat menuruni lereng yang curam atau saat membawa beban yang berat. Dan mengurangi tekanan pada punggung dan lutut saat membawa beban dalam ransel. Dengan menggunakan trekking pole untuk menopang dan meredistribusikan beban, Anda dapat mengurangi tekanan yang diterima oleh punggung bagian bawah, lutut, dan sendi lainnya.</item>
+        <item>Celana panjang tentunya berfungsi sebagai perlindungan dari elemen alam, trousers dirancang untuk melindungi kaki dan kaki bagian bawah dari elemen alam seperti tanah, batu, ranting, semak-semak, dan serangga. Bahan yang digunakan biasanya tahan terhadap sobekan dan abrasi, sehingga mampu menjaga kaki tetap aman dan nyaman selama pendakian.Trousers yang dirancang khusus untuk mendaki gunung seringkali dilengkapi dengan perlindungan dari angin, air, dan suhu ekstrem. Bahan yang tahan air atau tahan angin membantu menjaga kaki tetap kering dan nyaman dalam kondisi cuaca yang buruk. Selain itu, beberapa trousers juga memiliki lapisan insulasi tambahan untuk menjaga suhu tubuh tetap stabil. Trousers sering dilengkapi dengan saku-saku yang berfungsi sebagai tempat penyimpanan kecil untuk barang-barang penting seperti peta, kompas, pisau lipat, atau peralatan kecil lainnya. Dan terakhir dirancang untuk mendaki gunung seringkali juga dilengkapi dengan perlindungan terhadap sinar matahari. </item>
+    </string-array>
+
+
+    <string-array name="consequence">
+        <item>1. Kehilangan Perlengkapan\n\n2. Kesulitan Bertahan Hidup\n\n3. Tidak Siap dalam Situasi Tertentu\n\n4. Mengakibatkan Pencarian dan Penyelamatan</item>
+        <item>1. Risiko hipotermia: Tanpa sleeping bag yang memberikan isolasi termal yang memadai, Anda berisiko mengalami hipotermia, yaitu kondisi di mana suhu tubuh Anda turun di bawah tingkat yang aman. Ini dapat menyebabkan gejala seperti kedinginan parah, kaku tubuh, kelelahan ekstrem, atau bahkan kehilangan kesadaran.\n\n2. Ketidaknyamanan dan kurang tidur: Tidur tanpa sleeping bag yang nyaman dapat menyebabkan ketidaknyamanan dan mengganggu kualitas tidur Anda. Anda mungkin merasa kedinginan, tidak nyaman di permukaan tanah, atau sulit tidur dengan baik. Ini dapat mempengaruhi energi dan konsentrasi Anda selama pendakian.\n\n3. Perlindungan terhadap elemen: Sleeping bag juga memberikan perlindungan dari elemen alam seperti angin, embun, atau hujan ringan. Tanpa sleeping bag, Anda mungkin merasa tidak terlindungi dan lebih rentan terhadap cuaca buruk atau kelembaban yang dapat mengganggu kenyamanan tidur Anda.</item>
+        <item>1. Langsung terkena paparan sinar matahari langsung, jadi muka kalian bisa saja gosong karena terlalu lama berada di bawah terik matahari\n\n2. Beresiko panas berlebihan sehingga membuat cepat lelah\n\n3. Resiko tergigit serangga\n\n4. Kerugian perlindungan fisik, topi dengan tepi lebar dapat membantu melindungi wajah, leher, dan telinga Anda dari debu, angin kencang, atau hujan ringan</item>
+        <item>1. Sulit untuk memasak makanan dan merebus air untuk konsumsi selama pendakian \n\n2. Meningkatkan biaya karena bergantung pada makanan siap saji\n\n3. Keterbatasan pada pilihan variasi makanan yang diinginkan\n\n4. Dampak lingkungan yang lebih besar jika kita bergantung pada makanan siap saji dengan kemasan sekali pakai.</item>
+        <item>1. Kesulitan menangani cedera\n\n2. Peningkatan risiko infeksi\n\n3. Tidak ada perlindungan terhadap kondisi medis\n\n4. Keterbatasan dalam stabilisasi cedera\n\n5. Ketergantungan pada bantuan dari orang lain\n\n6. Meningkatkan risiko kecelakaan yang lebih serius</item>
+        <item>1. Keterbatasan Penglihatan dan Cahaya\n\n2.Risiko kecelakaan dan cedera\n\n3. Rasa tidak nyaman dan kecemasan\n\n4. Gangguan terhadap aktivitas di malam hari\n\n5. Kesulitan navigasi, Anda mungkin kesulitan menemukan sumber air, toilet, atau mengikuti jalur yang benar tanpa cahaya yang memadai. </item>
+        <item>1. Keterbatasan cahaya di malam hari\n\n2. Kesulitan navigasi\n\n3. Resiko kecelakaan dan cedera\n\n4. Keterbatasan kegiatan di malam hari</item>
+        <item>1. Resiko hipotermia\n\n2. Keterbatasan perlindungan dari cuaca buruk\n\n3. Risiko cedera akibat cuaca buruk\n\n4. Tanpa jaket, Anda mungkin merasa tidak nyaman dan terganggu oleh suhu dingin, kelembapan, atau angin yang dapat mempengaruhi pengalaman mendaki Anda secara keseluruhan</item>
+        <item>1. Keterbatasan dalam keadaan darurat\n\n2. Keterbatasan dalam keperluan pribadi\n\n3. Ketidaknyamanan dalam memasak\n\n4. Pisau adalah alat yang serbaguna dan penting dalam berbagai tugas selama pendakian. Tanpa pisau, Anda mungkin menghadapi kesulitan dalam melakukan tugas-tugas seperti memotong tali, memodifikasi peralatan, atau mempersiapkan makanan di lapangan. Ini dapat menghambat kemampuan Anda untuk memenuhi kebutuhan dasar dan aktivitas yang mungkin Anda hadapi di perjalanan.</item>
+        <item>1. Isolasi termal, jadi matras memberikan lapisan tambahan antara tubuh Anda dan permukaan tanah atau batu.\n\n2. Kenyamanan dan dukungan, Matras memberikan tambahan kenyamanan dan dukungan saat Anda beristirahat atau tidur di perkemahan.\n\n3. Perlindungan dari kelembaban: Matras dapat melindungi tubuh Anda dari kelembaban yang mungkin ada di tanah atau di sekitar perkemahan.\n\n4. Perlindungan terhadap benda keras: Matras juga berfungsi sebagai perlindungan tambahan dari benda-benda keras atau tajam yang mungkin ada di tanah atau di bawah tenda.\n\n5. Portabilitas: Matras biasanya dirancang untuk dapat dilipat atau digulung menjadi ukuran yang lebih kecil dan ringan.\n\n6. Hygienist: Matras dapat membantu menjaga kebersihan dan kesehatan Anda dengan memberikan lapisan tambahan antara tubuh Anda dan permukaan yang mungkin kotor atau berbahaya, seperti serangga atau tanah yang terkontaminasi. </item>
+        <item>1. Tidak dapat memasak makanan.\n\n2. Keterbatasan dalam pengeringan pakaian: Jika pakaian Anda basah karena hujan atau kelembaban, \n\n3. Keterbatasan dalam situasi darurat: Gas portable juga dapat berfungsi sebagai sumber api darurat atau untuk membuat sinyal bantuan. Tanpa gas portable, Anda mungkin tidak memiliki cara yang efektif untuk membuat sinyal atau menjaga kehangatan dalam situasi darurat.n</item>
+        <item>1. Kedinginan dan kebasahan: Tanpa jas hujan, Anda akan terpapar langsung pada hujan dan risiko kebasahan. Basah karena hujan dapat menyebabkan penurunan suhu tubuh dan membuat Anda merasa kedinginan. Kondisi basah yang berkelanjutan juga dapat mengganggu kenyamanan Anda selama pendakian.\n\n2. Risiko hipotermia: Jika Anda terpapar hujan dalam kondisi dingin atau cuaca buruk tanpa perlindungan yang memadai, Anda berisiko mengalami hipotermia. Hipotermia adalah kondisi di mana suhu tubuh turun di bawah batas normal karena kehilangan panas yang berlebihan. Ini merupakan kondisi serius dan bisa mengancam nyawa.\n\n3. Menurunnya kinerja fisik: Kedinginan dan kebasaan dapat mengganggu kinerja fisik Anda saat mendaki. Ketidaknyamanan yang disebabkan oleh kebasahan dan suhu rendah dapat membuat Anda lebih lelah dan kurang fokus, yang berpotensi meningkatkan risiko kecelakaan atau kesalahan saat mendaki.\n\n4. Risiko kesehatan: Terpapar hujan dalam waktu yang lama dapat menyebabkan berbagai masalah kesehatan seperti pilek, batuk, demam, atau infeksi lainnya. Kelembaban yang tinggi juga dapat menyebabkan lecet, iritasi kulit, dan masalah lainnya.\n\n5. Tidak optimalnya perjalanan: Kondisi cuaca yang buruk dengan hujan yang terus-menerus dapat mengganggu perjalanan mendaki Anda secara keseluruhan. Anda mungkin tidak dapat menikmati pemandangan atau kegiatan di sekitar karena fokus pada ketidaknyamanan yang disebabkan oleh kebasahan.</item>
+        <item>1. Cedera kaki: Meninggalkan sepatu saat mendaki meningkatkan risiko cedera kaki yang serius. Tanpa perlindungan yang memadai, kaki Anda dapat terkena lecet, luka gores, tusukan, atau bahkan patah jika Anda menginjak permukaan yang tajam atau tidak stabil.\n\n2. Ketidaknyamanan dan kelelahan: Berjalan jauh tanpa sepatu yang sesuai dapat menyebabkan ketidaknyamanan dan kelelahan yang signifikan. Kaki Anda mungkin terasa sakit, terlalu lelah, atau merasa tidak stabil saat berjalan di medan yang tidak rata atau berbatu.\n\n3. Risiko infeksi: Tanpa sepatu yang tepat, kaki Anda juga rentan terhadap infeksi. Jika kaki terpapar tanah, air, atau lingkungan yang tidak steril, Anda berisiko mengalami infeksi bakteri atau jamur.</item>
+        <item>1. Hilangnya stabilitas dan keseimbangan: Trekking pole membantu meningkatkan stabilitas dan keseimbangan Anda saat mendaki. Tanpa trekking pole, Anda mungkin merasa kurang stabil di medan yang tidak rata atau licin, meningkatkan risiko tergelincir atau jatuh.\n\n2. Beban yang lebih besar pada sendi dan otot: Trekking pole membantu meredistribusikan beban tubuh Anda, mengurangi tekanan pada sendi dan otot kaki. Tanpa trekking pole, beban pada sendi dan otot Anda mungkin meningkat, terutama saat menuruni lereng yang curam atau membawa beban yang berat.\n\n3. Kekurangan dukungan saat mendaki curam: Saat mendaki lereng yang curam, trekking pole dapat memberikan dukungan tambahan saat Anda naik. Tanpa trekking pole, Anda mungkin merasa kurang mendapatkan dukungan yang cukup saat mendaki, mempengaruhi efisiensi dan kenyamanan Anda.</item>
+        <item>1. Paparan fisik: Tanpa trousers yang memadai, kaki Anda akan terpapar langsung kepada elemen alam seperti tanah, batu, semak-semak, dan serangga. Hal ini dapat menyebabkan luka, goresan, atau gigitan yang tidak nyaman dan berpotensi terinfeksi. Paparan langsung juga dapat meningkatkan risiko cedera dan membuat perjalanan pendakian menjadi tidak nyaman.\n\n2. Suhu tidak terkontrol: Trousers yang dirancang khusus untuk mendaki gunung seringkali dilengkapi dengan perlindungan dari suhu ekstrem. Tanpa trousers, suhu tubuh Anda dapat terpengaruh oleh suhu eksternal, baik itu dingin yang ekstrim di pegunungan tinggi atau panas yang berlebihan di daerah terbuka. Hal ini dapat menyebabkan ketidaknyamanan, dehidrasi, atau bahkan risiko hipotermia atau heatstroke.\n\n3. Perlindungan terbatas: Trousers juga memberikan perlindungan dari sinar matahari, serangga, dan tumbuhan berbahaya seperti semak berduri. Tanpa trousers, kulit Anda menjadi lebih rentan terhadap paparan sinar UV yang berbahaya, gigitan serangga yang mengganggu, dan kontak dengan tumbuhan beracun atau berduri.</item>
+
+    </string-array>
+
+    <string-array name="solution">
+        <item>\n1. Menelusuri Kembali Langkah Anda.\n\n2. Koordinasikan dengan Rekan PendakianBuat Perencanaan Alternatif.\n\n3. Manfaatkan Sumber Daya yang Ada.\n\n4. Hubungi Tim Penyelamat.\n\n5. Pelajari dari Pengalaman.</item>
+        <item>\n1. Cari perlindungan sementara: Jika memungkinkan, cari bahan-bahan di sekitar Anda yang dapat digunakan sebagai perlindungan sementara untuk menjaga tubuh Anda tetap hangat. Misalnya, Anda dapat menggunakan kantong tidur, selimut, atau lapisan tambahan pakaian yang dapat memberikan isolasi dan kenyamanan.\n\n2. Bagi tidur dengan pendaki lain: Jika ada pendaki lain dalam grup Anda yang membawa sleeping bag cadangan atau memiliki ruang ekstra di sleeping bag mereka, tanyakan apakah mereka bersedia membaginya dengan Anda. Ini dapat memberikan sedikit kehangatan dan kenyamanan tambahan selama tidur.\n\n3. Tingkatkan lapisan pakaian: Gunakan pakaian tambahan, seperti lapisan base layer, lapisan tengah, dan lapisan luar yang tahan angin, untuk meningkatkan isolasi tubuh Anda. Ini dapat membantu menjaga suhu tubuh Anda tetap hangat meskipun tidak memiliki sleeping bag.\n\n4. Evaluasi keselamatan: Jika tidak ada solusi yang memadai, pertimbangkan untuk mengubah rencana perjalanan Anda dan turun dari gunung dengan aman. Jika suhu rendah atau cuaca buruk diperkirakan, memutuskan untuk tidak bermalam di gunung bisa menjadi keputusan yang bijak demi menjaga keselamatan Anda.</item>
+        <item>\n1. Berteduh dibawah pohon\n\n2. Gunakan pengganti sementara seperti syal, baju, sarung, daun pisang, dan daun yang besar cukup untuk menutupi kepala dari sinar matahari.\n\n3. Gunakan sunscreen yang ber-spf tinggi.\n\n4. Gunakan bahan alami: Jika Anda berada di alam liar dan menemukan daun besar atau kulit pepohonan yang lebar, Anda dapat menggunakannya sebagai topi darurat. Letakkan daun atau kulit pepohonan di atas kepala dan ikatkan dengan tali, rantai, atau bahan lain yang ada di sekitar Anda.</item>
+        <item>\n1. Mencari bantuan dari pendaki lain bisa meminjam sebentar untuk memasak dan merebus air.\n\n2. Sangat fatal jika terlupa membawa kompor, korek, wajan, dan piring kalian bisa kekurangan sumber tenaga jika di gunung tersebut tidak ada warung.\n\n3. Mencari peralatan alami dari hutan seperti menggunakan daun besar sebagai wadah atau alat memasak, menggunakan batu yang cocok sebagai pengganti panci, atau mencari tongkat yang dapat digunakan untuk menahan makanan di atas api.\n\n4. Dapat menggunakan api unggun dengan cara memasak di atas api dengan menggunakan batu atau ranting bersih. Namun membuat api di gunung sangat tidak dianjurkan sebab berpotensi menyebabkan kebakaran hutan.\n\n5. Bergantung pada makanan yang tidak perlu dimasak misal seperti buah-buahan dan snack.\n\n6. Mencari sumber makanan di alam sekitar.\n\n6. Jika tertinggal kompor maka buatlah kompor darurat dengan menggunakan tungku dari kayu. </item>
+        <item>\n1. Mencari bantuan dari pendaki lain, tanyakan kepada anggota tim atau pendaki lainnya apakah mereka memiliki P3K yang dapat dipinjam atau berbagi. Jika ada anggota tim yang membawa P3K, Anda dapat memanfaatkannya jika diperlukan.\n\n2. Maksimalkan sumber daya yang tersedia, Anda mungkin dapat menggunakan bahan-bahan yang tersedia di sekitar Anda sebagai pengganti untuk beberapa item P3K. Misalnya, kain bersih atau pakaian dapat digunakan sebagai pembalut, atau daun yang lebar dapat digunakan sebagai perban sementara.\n\n3. Fokus pada pencegahan cedera, perhatikan keamanan, perhatikan tata cara pendakian yang benar, hindari situasi berisiko tinggi, dan berhati-hatilah dalam setiap langkah Anda.\n\n4. Pelajari atau perbarui pengetahuan P3K, jika Anda tidak memiliki akses ke P3K, penting untuk memiliki pengetahuan dasar tentang pertolongan pertama. Ambil waktu untuk mempelajari teknik-teknik P3K, tanda-tanda dan gejala kondisi darurat, serta langkah-langkah yang perlu diambil dalam situasi tertentu.</item>
+        <item>\n1. Cari sumber cahaya alternatif di sekitar Anda, seperti senter, lampu kepala, atau api unggun.\n\n2. Jika ada anggota tim atau pendaki lain yang membawa lampu tenda cadangan, Anda dapat meminta mereka untuk membagikannya dengan Anda.\n\n3. Kegiatan dilakukan siang hari saja malam digunakan untuk istirahat. </item>
+        <item>\n1. Mencari sumber cahaya alternatif.\n\n2. Manfaatkan cahaya bulan jika cuaca cerah.\n\n3. Atur jadwal kegiatan Anda agar lebih banyak dilakukan pada siang hari ketika cahaya alami masih cukup.\n\n4. Berbagi sumber cahaya, jika ada pendaki lain dalam kelompok Anda yang memiliki lampu kepala, mintalah mereka untuk membagikannya dengan Anda.</item>
+        <item>\n1. Gunakan lapisan pakaian lain.\n\n2. Carilah perlindungan tambahan.\n\n3. Jika kondisi cuaca buruk dan Anda tidak memiliki perlindungan yang memadai, pertimbangkan untuk memilih rute yang lebih pendek atau cepat menuju pos berikutnya atau titik tujuan.\n\n4. Perhatikan kondisi tubuh Anda, pantau suhu tubuh Anda dengan seksama. Jika Anda mulai merasa kedinginan atau menggigil, segera cari perlindungan dan coba menghangatkan diri dengan cara-cara yang tersedia, seperti bergerak aktif, menggosok tangan dan kaki, atau minum minuman hangat\n\n5. Jangan memaksakan diri, jika kondisi cuaca terlalu ekstrem atau risiko hipotermia sangat tinggi, lebih baik untuk tidak melanjutkan pendakian dan segera kembali ke titik awal atau pos yang lebih aman. Keselamatan harus menjadi prioritas utama dalam situasi seperti ini. </item>
+        <item>\n1. Minta bantuan dari pendaki lain.\n\n2. Gunakan alat pengganti.\n\n3. Mencari pisau improvisasi, Jika memungkinkan, coba cari atau buat pisau improvisasi dari bahan-bahan alami yang ditemukan di sekitar Anda. Misalnya, Anda dapat mencoba memotong atau mengasah batu tajam menjadi bentuk pisau sederhana.\n\n4. Menyesuaikan rencana.\n\n5. Bersikap kreatif, selalu ada cara kreatif untuk mengatasi tantangan yang dihadapi. Coba cari solusi lain yang dapat membantu Anda menyelesaikan tugas yang membutuhkan pemotongan atau manipulasi, seperti menggunakan tali, mengikat simpul, atau menggunakan alat lain yang ada.</item>
+        <item>\n1. Minta bantuan dari pendaki lain: Tanyakan kepada pendaki lain apakah mereka memiliki matras cadangan yang dapat Anda pinjam untuk sementara waktu.\n\n2. Improvisasi dengan bahan-bahan di sekitar, seperti dedaunan kering, rumput, atau bahan empuk lainnya yang dapat Anda kumpulkan untuk membuat alas sementara yang lebih nyaman. Tetap berhati-hati untuk memeriksa kebersihan dan kemungkinan alergi atau iritasi dari bahan yang Anda gunakan.\n\n3. Menyesuaikan rencana: Jika tidak ada solusi yang memungkinkan, Anda perlu menyesuaikan rencana dan ekspektasi Anda. Misalnya, Anda dapat mempertimbangkan untuk memendekkan durasi pendakian atau mencari lokasi perkemahan yang lebih nyaman dengan permukaan yang lebih rata dan lembut.</item>
+        <item>\n1. Minta bantuan dari pendaki lain: Tanyakan kepada pendaki lain apakah mereka memiliki gas portable cadangan yang dapat Anda pinjam untuk sementara waktu.\n\n2. Gunakan sumber api yang ada: Cari tahu apakah di sekitar perkemahan terdapat sumber api yang dapat Anda manfaatkan untuk memasak atau memanaskan air.\n\n3. Memanfaatkan kayu bakar: Jika Anda memiliki akses ke kayu bakar di sekitar perkemahan, Anda dapat mencoba memanfaatkannya untuk membuat api dan memasak makanan. Namun, pastikan untuk mematuhi aturan dan peraturan setempat tentang penggunaan kayu bakar agar tidak merusak lingkungan dan tetap menjaga keamanan.\n\n4. Menyesuaikan rencana makan: Jika Anda tidak dapat memasak makanan karena tidak memiliki gas portable, Anda dapat menyesuaikan rencana makan Anda dengan makanan yang tidak memerlukan pemanasan. Bawa makanan instan yang bisa dimakan langsung atau makanan kering yang mudah disiapkan.\n\n5. Bergantung pada makanan yang bisa dimakan mentah: Jika Anda terbatas dalam memasak, pertimbangkan untuk membawa makanan yang bisa dimakan mentah seperti buah-buahan, sayuran, atau camilan sehat. Ini dapat memberikan nutrisi yang diperlukan tanpa memerlukan pemanasan.\n\n6. Tetap memperhatikan keamanan dan peraturan: Ketika mencari alternatif untuk gas portable, selalu perhatikan keamanan dan patuhi aturan setempat. Jangan mencoba menggunakan sumber api yang berbahaya atau melanggar peraturan penggunaan api di area pendakian.</item>
+        <item>\n1. Cari tempat berlindung: Temukan tempat berlindung yang aman, seperti tenda atau tempat perlindungan lainnya, untuk melindungi diri Anda dari hujan.\n\n2. Gunakan perlindungan sementara: Jika memungkinkan, gunakan bahan-bahan yang tersedia di sekitar Anda untuk menciptakan perlindungan sementara, misalnya menggunakan poncho plastik atau tali untuk membuat atap sederhana di atas kepala Anda.\n\n3. Pinjam dari pendaki lain: Tanyakan kepada pendaki lain apakah ada yang bisa meminjamkan jas hujan atau perlindungan lainnya. Mungkin ada orang yang bersedia membantu Anda dengan menyediakan perlindungan tambahan.\n\n4. Perhatikan perkiraan cuaca: Jika cuaca terus memburuk dan Anda tidak memiliki perlindungan yang memadai, pertimbangkan untuk mengubah rencana dan turun dari gunung jika diperlukan demi keamanan dan kesehatan Anda.</item>
+        <item>\n1. Cari perlindungan sementara: Jika memungkinkan, cari bahan-bahan di sekitar Anda yang dapat digunakan sebagai perlindungan sementara untuk kaki Anda. Misalnya, Anda dapat menggunakan tali atau kain yang kuat untuk melindungi kaki Anda dari permukaan yang tajam atau kasar.\n\n2. Gunakan alas kaki alternatif: Jika Anda beruntung memiliki sandal atau sepatu yang lebih ringan dan nyaman yang dapat digunakan sebagai pengganti sepatu gunung, gunakanlah sebagai alternatif. Meskipun tidak seideal sepatu gunung, alas kaki alternatif dapat memberikan perlindungan sementara.\n\n3. Meminjam dari pendaki lain: Tanyakan kepada pendaki lain jika ada yang bersedia meminjamkan sepatu mereka. Terkadang pendaki lain yang memiliki ukuran sepatu yang sama atau mirip dapat membantu Anda dalam situasi darurat.\n\n4. Evaluasi keselamatan: Jika Anda tidak dapat menemukan solusi atau perlindungan yang memadai, pertimbangkan untuk mengubah rencana perjalanan Anda dan turun dari gunung dengan aman. Keselamatan harus menjadi prioritas utama dalam kegiatan mendaki gunung.</item>
+        <item>\n1. Mencari bantuan dari pendaki lain: Jika ada anggota tim atau pendaki lain di sekitar Anda yang memiliki trekking pole cadangan, Anda dapat meminta mereka untuk meminjamkannya. Ini akan memberikan Anda dukungan dan stabilitas tambahan saat mendaki.Menggunakan bahan yang tersedia: Jika tidak ada trekking pole cadangan, Anda dapat mencari bahan-bahan di sekitar Anda yang dapat digunakan sebagai pengganti sementara. Misalnya, tongkat atau ranting yang kokoh dapat digunakan untuk memberikan sedikit dukungan saat mendaki.\n\n2. Menyesuaikan langkah dan kecepatan: Tanpa trekking pole, Anda mungkin perlu menyesuaikan langkah dan kecepatan Anda saat mendaki. Berjalan lebih hati-hati dan perlahan untuk meminimalkan risiko tergelincir atau kehilangan keseimbangan.\n\n3. Memperhatikan keamanan dan keselamatan: Jika Anda merasa tidak aman atau tidak nyaman tanpa trekking pole, penting untuk memprioritaskan keselamatan Anda. Pertimbangkan untuk menurunkan diri dari gunung atau mengubah rencana perjalanan Anda agar tetap aman.</item>
+        <item>\n1. Membeli atau meminjam trousers pengganti: Jika memungkinkan, carilah toko alat mendaki atau toko perlengkapan outdoor terdekat untuk membeli atau meminjam trousers yang sesuai dengan kondisi pendakian Anda. Pastikan untuk memilih trousers yang cocok dengan ukuran dan kebutuhan Anda.\n\n2. Mengimprovisasi dengan pakaian yang ada: Jika tidak ada trousers yang tersedia, cobalah menggunakan celana yang memiliki ketahanan yang cukup terhadap elemen alam dan memberikan perlindungan minimal seperti celana panjang yang terbuat dari bahan yang kuat dan tahan terhadap sobekan.\n\n3. Berhati-hati dan beradaptasi: Jika Anda tidak memiliki trousers yang memadai, perlu untuk lebih berhati-hati dan beradaptasi dengan kondisi medan. Hindari daerah yang berpotensi melukai atau mengganggu kaki Anda. Gunakan tabir surya untuk melindungi kulit dari sinar matahari, kenakan kaus kaki yang tebal untuk memberikan perlindungan tambahan, dan waspadai tumbuhan berbahaya atau serangga.</item>
+    </string-array>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login_now">Sudah Punya Akun? Login Disini</string>
+    <string name="register_now">Belum Mempunyai Akun? Daftar Disini</string>
+    <string name="logout">Logout</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera and storage permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
+            you can display camera preview and take pictures.
+
+
+        ]]>
+    </string>
+
+    <string name="rekomendasi">Rekomendasi Peralatan Pendakian</string>
+    <string name="desc_rekomendasi">Disini kami memberikan beberapa rekomendasi barang yang akan dibawa selama melakukan pendakian gunung. Jadi, bagi kalian yang ingin mendaki gunung misal terkendala dalam waktu yang diharuskan berangkat besok atau waktu yang mepet, disini sudah melampirkan list barang-barang yang dibawa serta memberikan keterangan warna bagi barang yang wajib dibawa berwarna merah, sangat disarankan berwarna orange, dan biru opsional untuk dibawa. </string>
+    <string name="peralatan_kelompok1">\nPeralatan Kelompok\n1. Tenda\n2. Lampu Tenda + Baterai\n3. Logistik atau Makanan\n4. Peralatan Komunikasi (HT)\n4. Peralatan Masak\n5. Peralatan Navigasi\n6. P3K\n</string>
+    <string name="peralatan_kelompok2">7. Tenda\n8. Lampu Tenda + Baterai\n9. Logistik atau Makanan\n10. Peralatan Komunikasi (HT)</string>
+    <string name="peralatan_kelompok3">\n11. Tenda\n12. Lampu Tenda + Baterai\n13. Logistik atau Makanan</string>
+
+</resources>

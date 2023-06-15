@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Base.Theme.AplikasiSiMun"
+        tools:targetApi="31">
+        <activity
+            android:name=".equipment.RecommendedActivity"
+            android:exported="false"
+            android:label="Informasi"
+            android:colorMode="default"/>
+        <activity
+            android:name=".loginlogout.RegisterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name="com.example.camera.CameraActivity"
+            android:exported="false"
+            android:label="Camera"/>
+        <activity
+            android:name=".profile.ProfileActivity"
+            android:exported="false"
+            android:label="Profile" />
+        <activity
+            android:name=".equipment.DetailEquipment"
+            android:exported="false"
+            android:label="Detail Perlengkapan" />
+        <activity
+            android:name=".education.DetailEducation"
+            android:exported="false"
+            android:label=" Detail Edukasi" />
+        <activity
+            android:name=".equipment.EquipmentActivity"
+            android:exported="false"
+            android:label="Perlengkapan" />
+        <activity
+            android:name=".education.EducationActivity"
+            android:exported="false"
+            android:label="Edukasi" />
+        <activity
+            android:name=".DetailMountain"
+            android:exported="false"
+            android:label="Detail Gunung" />
+        <activity
+            android:name=".loginlogout.LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar">
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design.Light.NoActionBar">
+
+        </activity>
+    </application>
+
+</manifest>

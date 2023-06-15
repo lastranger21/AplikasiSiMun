@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "131663519257",
+    "firebase_url": "https://project-capstone-c23-pr519-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-capstone-c23-pr519",
+    "storage_bucket": "project-capstone-c23-pr519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131663519257:android:32457baa116ad893741488",
+        "android_client_info": {
+          "package_name": "com.example.aplikasisimun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131663519257-glgb56uodhh2u0chhlg17hv406f34tdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasisimun",
+            "certificate_hash": "a19a1713e7115a192e9ab3873b8583bc0bd34be2"
+          }
+        },
+        {
+          "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoedvgjivmj9e7BsFBkV-Kq0v3zzmw-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131663519257:android:e7f4e16e79ccd6ce741488",
+        "android_client_info": {
+          "package_name": "com.example.capslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoedvgjivmj9e7BsFBkV-Kq0v3zzmw-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131663519257:android:49091b24e2c4c07d741488",
+        "android_client_info": {
+          "package_name": "com.example.cobalagi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoedvgjivmj9e7BsFBkV-Kq0v3zzmw-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131663519257-16nk2c425c0rf7r1qot2d7groti4gifa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
